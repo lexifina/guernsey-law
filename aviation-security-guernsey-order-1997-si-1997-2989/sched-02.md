@@ -1,0 +1,16 @@
+# Schedule 2: Provisions relating to compensation
+(1) This Schedule applies to compensation under section 22 of this Act (in this Schedule referred to as "the relevant section").
+(2) No compensation to which this Schedule applies shall be payable unless the person to whom it is payable in accordance with the relevant section serves on the Airport Director notice in writing claiming compensation under that section, and that notice is served before the end of the period of two years from the completion of the measures.
+(3) In relation to any measures taken by the Airport Director on land outside an aerodrome or an air navigation installation, as the case may be, any reference in the relevant section to a direction, or to compliance with a direction, shall be construed as if subsection (6) of section 16 of this Act were omitted.
+(4) In calculating value for any of the purposes of the relevant section—
+(a) rules (2) to (4) of the rules set out in section 5 of the Land Compensation Act 1961 shall apply with the necessary modifications; and
+(b) if the interest to be valued is subject to a mortgage, it shall be treated as if it were not subject to a mortgage.
+(5) The Board may by regulations make provision—
+(a) requiring compensation to which this Schedule applies, in such cases as may be specified in the regulations, to be paid to a person other than the person entitled to it in accordance with the relevant section;
+(b) as to the application of any compensation to which this Schedule applies, or any part of it, in cases where the right to claim compensation is exercisable by reference to an interest in land which is subject to a mortgage; or
+(c) as to any assumptions to be made, or matters to be taken into or left out of account, for the purpose of assessing any compensation to which this Schedule applies.
+(6) (1) Any dispute arising under the relevant section or under this Schedule, whether as to the right to any compensation or as to the amount of any compensation, or otherwise, shall be referred to and determined by two arbitrators, one of whom shall be appointed by the Board and the other by the person claiming the compensation save that, if an arbitrator is not appointed by the person claiming compensation within a period of 14 days immediately following the date of a notice served upon him by the Board requiring him to appoint an arbitrator for the purposes of this paragraph, then he shall be nominated by the Board and any arbitrator so nominated shall be deemed to be the arbitrator appointed by the person claiming the compensation.
+(2) Arbitrators appointed under sub-paragraph (1) above shall, before commencing to determine any matter referred to them under this paragraph, nominate an umpire who shall determine the matter if the arbitrators disagree.
+(3) The arbitrators or umpire, as the case may be, may refer to the Royal Court, sitting as an Ordinary Court, any question of law or of law mixed with fact arising in connection with any matter referred to them or him in such manner and within such time as may be prescribed by rules of court.
+(4) Subject to sub-paragraph (3) above, the decision of the arbitrators or of the umpire, as the case may be, shall be final.
+(7) In this Schedule, "mortgage" includes any hypotheque.
