@@ -1,0 +1,23 @@
+# The Fishing (Minimum Size and Prescribed Species) Order 1997 (G.S.I. No. 30 of 1997)
+
+The Fishing (Minimum Size and Prescribed Snecies) Order. 1997. GUERNSEY STATUTORY INSTRUMENT Made ................................. 30th October,1997 Laid before the States .............................. ,1997 Coming into operation on ............................... 1st November, 1997 GREFFE ROYAL COURT 2 1 0- GUERNSEY THE STATES SEA FISHERIES COMMITTEE, in exercise of the powers conferred upon it by sections 1,2 and 1 l(1) of the Fishing Ordinance, 1997(a), hereby orders:- F Minimum size of arescribed soecies of fish. 1. (1) For the purposes of section 1 of the 1997 Ordinance, the minimum size prescribed in relation to any species specified in the first column of Schedule 1 is- (a) that specified in Annex I1 (Region 2) of Council Regulation 894/97(b), as amended (for ease of reference reproduced as part I of Schedule 1); (b) that specified in the second column of Part I1 of Schedule 1, with the applicable method of measurement code for that species being specified in - the third column of Schedule 1. r
+
+(2) Schedule 2 applies to defme the methods of measurement corresponding to each of the codes included in the third column of Schedule 1. Prescribed soecies for exoort. 2. (1) Subject to subsection (2), for the purposes of section 2(2) of the 1997 Ordinance, the Committee shall not grant an export licence in respect of- (a) ormers (Haliotis tuberculata), other than cultivated ormers: or
+
+(a) Ordinance No. XXV of 1997 @) O.J.L132,29.4.97, p.1
+
+(b) sandeels (Ammodytidae: Linnaeus 1758) taken fiom within temtorial waters or the foreshore.
+
+(2) Before the Committee grants an export licence in respect of a consignment of cultivated ormers- (a) the exporter shall have given at least 48 hours' notice in writing of his intention to export that consignment; and (b) the Committee shall have issued a certificate of origin in respect thereof. Inter~retation. A 3- (1) In this Order, unless the context otherwise provides- "the 1997 Ordinance" means the Fishing Ordinance, 1997; and any other expression shall have the same meaning as in the 1997 Ordinance.
+
+(2) The Interpretation (Guernsey) Law, 1948(c) applies to the interpretation of this Order as it applies to the interpretation of an enactment. Citation. 4. This Order may be cited as the Fishing (Minimum Size and Prescribed Species) Order, 1997. Commencement. f-
+
+5. This Order shall come into force on the 1st November, 1997. Dated this 30764 day of DcTOQER R J LE MOIGNAN President of the States Sea Fisheries Committee for and on behalf of the Committee
+
+(c) Ordres en Conseil Vol. XIII, p.355.
+
+Name of fish Section l(1) SCHEDULE 1 MINIMUM SIZES OF PRESCRIBED SPECIES PART1 SPECIES FROM EC COUNCIL REGULATION 894197 Bass (Dicenharchus labrax) Black sea bream (Spondyliosoma cantharus) Brill (Scopthalmus rhombus) Cod (Gadus morhua) Conger eel (Conger conger) Dab (Limanda limanda) Flounder (Platichihysf2esus) Grey mullet (Mugilidae.) Haddock (Melanogrammus aeglefinus) Hake (Merluccius Merluccius) Lemon sole (Microstomus kitt) Megrim (Lepidorhombus spp.) Plaice (Pleuronectesplatessa) Pollack (Pollachiuspollachius) Red mullet (Mullus surmuletus/Mullus barbatus) Red sea bream (Pagellus bogaraveo) Saithe (Pollachius virens) Shad (Alosa spp.) Sole (Solea soledsolea lascaris) Turbot (Psetta maxima) Whiting (Merlangius merlangius) Witch Flounder (Glyptocephalus cynoglossus) Size (cm) Method of Measurement cQ&
+
+PART I1 OTHER SPECIES Name of fish Crustaceans Edible crab (Cancerpagurus) Spider crab (Maia squinado) European lobster (Homarus gammarus) Crawfish (Palinurus elephas) Lady crab (Macropipuspuber) - Molluscs Wild ormer (Haliotis tuberculata) Cultivated ormer (Haliotis tuberculata) Scallop (Pecten maximus) Vertebrates Mackerel (Scomber scombrus) Herring (Clupea harengus) Horse mackerel (Trachurus trachurus) SkateRay (Raja spp., Dasyatis pastinacea, Myliobatis aquila, Torpedo marmorata) Method of Measurement Q,&.
+
+Section l(2) Method code a SCHEDULE 2 METHODS OF MEASUREMENT OF FISH Description of method The distance from the tip of the snout to the end of the tail fin. The distance along a horizontal plane between the two most distant extremities of the shell. The distance measured from between the rostra to the rear end of the carapace, along the centre line of the carapace. The distance measured from the rear of either eye socket to the rear end of the body shell, along a line parallel to the centre line of the body shell. The distance measured from the end of the rostrum to the end of the tail. The distance measured between the two most distant extremities of the lateral part of the body.
