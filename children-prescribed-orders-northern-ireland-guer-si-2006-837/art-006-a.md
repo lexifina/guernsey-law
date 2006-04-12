@@ -1,0 +1,2 @@
+# Article 6A: Transfer of recovery orders to England and Wales from Northern Ireland
+A recovery order under Article 69 of the Northern Ireland Order (being an order made by a court in Northern Ireland which appears to the Secretary of State and the National Assembly for Wales to correspond in its effect to an order which may be made under the Act) shall have effect in all circumstances and for all purposes of the Act in England and Wales as if it were a recovery order under section 50 of the Act.
