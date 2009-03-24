@@ -1,0 +1,23 @@
+# The Fishing- (Designation of Fisheries) Order, 2009 (G.S.I. No. 12 of 2009)
+
+GREFFE ROYAL COURT 2 4 MAR 2009 GUERNSEY GUERNSEY STATUTORY INSTRUMENT No. 12 The Fishing - (Designation of Fisheries) Order, 2009 Made i Coming into operation on Laid Before the States 24Zh March, 2009 26'h March, 2009 2 Yh May, 2009 THE COMMERCE AND EMPLOYMENT DEPARTMENT, in exercise of the powers conferred upon it by section l(1) of the Fishing (Licensing and Protection of Fisheries) Ordinance, 1987~, hereby orders:- Revocation of 1991 Order and 2001 Order.
+
+1. The Fishing (Designation of Fisheries) Order, 1991b and the Fishing (Designation of Shellfish Fisheries) Order, 2001' are revoked. I Designated fisheries.
+
+2. The areas of the seashore set out in the Schedule to this Order are designated as licensed fisheries for the purpose of the Ordinance of 1987, and shall be marked by marker buoys. a Recueil dfOrdonnances Tome XXIV, p. 33 GuernseyS.I.1991No.2 C Guernsey S.I. 2001 No. 26
+
+Interpretation.
+
+3. (1) In this Order, "the Ordinance of 1987" means the Fishing (Licensing and Protection of Fisheries) Ordinance, 1987, and any other expression has the same meaning as in the Ordinance of 1987.
+
+(2) The Interpretation (Guernsey) Law, 1948~ shall apply to the interpretation of this Order as it applies to the interpretation of an enactment. Citation. i
+
+4. This Order may be cited as the Fishing (Designation of Fisheries) 1/ Order, 2009. Commencement.
+
+5. This Order shall come into force on the 26th day of March, 2009. Dated this 24" day of March, 2009. /- C S McNulty Bauer Minister, Commerce and Employment Department for and on behalf of the Department Ordres en Conseil Vol. XIII, p. 355
+
+EXPLANATORY NOTE (This note is not part of the Order) The purpose of this Order is to prescribe the parts of the foreshore and sea adjacent thereto which have been designated as licensed fisheries under the Ordinance of 1987, and to revoke the two Orders made previously under the Ordinance of 1987.
+
+Article 1 SCHEDULE AREAS OF SEASHORE DESIGNATED AS LICENSED FISHERIES The areas referred to in article 1 are the areas enclosed by imaginary lines joining the intersection of the lines of latitude and longitude (plotted using a Garmin GPS system set to WGS84) set out below. Those imaginary lines are, for the purpose of identification, marked on Digimap GIs aerial photographs endorsed with the words "States of Guernsey - The Fishing (Designation of Fisheries) Order, 2009", signed by the Sea Fisheries Officer on the 24" March 2009 and lodged at the Greffe. Rocquaine 1 An area bounded within:- Latitude 4g026.28N Longitude 002 O39.45 W Latitude 4g026. 3N Longitude 002O39.56W Latitude 49 O26.220N Longitude 002 O39.574W Latitude 49 O26.259N Longitude 002 O39.6 1 OW Rocquaine 2 An area bounded within:- Latitude 4g026. 5 18N Longitude 002O39.263 W Latitude 49 O26.526N Longitude 002 3 9.25 8W Latitude 4g026.6N Longitude 002O39.46W Latitude 4g026. 578N Longitude 002O39.482W Latitude 49 O26.54 1N Longitude 002 O39.450W Latitude 4g026. 58N Longitude 002O39.33W Grande Havre 1 An area bounded within:- Latitude 49 O29.8 17N Longitude 002°33.05 1 W Latitude 4g029. 837N Longitude 002°33.045W Latitude 4g029. 825N Longitude 002 O33.004W Latitude 4g029. 8 13N Longitude 002 O33.005W Grande Havre 2 An area bounded within:- Latitude 4g029 .773N Longitude 002O32.968W Latitude 4g029.778N Longitude 002O32.936W Latitude 49 O26.79 1N Longitude 002O32.93 1 W Latitude 49 O26.793N Longitude 002O32.966W
+
+Port Grat An area bounded within:- Latitude 49 O29.945N Longitude 002O33.563W Latitude 49 O29.959N Longitude 002O33.532W Latitude 4g029. 982N Longitude 002°33.540W Latitude 4g029.958N Longitude 002O33.598W Chouet An area bounded within: - Latitude 4g030. 13N Longitude 002O32.6 1 W Latitude 4g030.123N Longitude 002O32.615W Latitude 4g030.122N Longitude 002O32.639W Latitude 4g030. 14N Longitude 002O32.63 W I Houmet Paradis An area bounded within:- i Latitude 4g029.793N Longitude 002 030.009W Latitude 4g029. 806N Longitude 002 O29.92 1 W Latitude 4g029. 899N Longitude 002O29.994W Latitude 4g029. 899N Longitude 002 O29.9 14W Herm Island An area bounded within: - Latitude 4g028.404N Longitude 002'27.354W Latitude 4g028 .437N Longitude 002O27.373 W Latitude 49 O28.627N Longitude 002°27.532W Latitude 49 O28.6 16N Longitude 002O27.649W Latitude 4g028.334N Longitude 002O27.68 1 W Torquetil An area bounded within:- Latitude 49'27.2 13N Longitude 002O39.322W Latitude 4g027. 197N Longitude 002°39.318W Latitude 4g027. 158N Longitude 002 3 9.375 W Latitude 49 O27.164N Longitude 002O39.436W Latitude 4g027.230N Longitude 002°39.501W
