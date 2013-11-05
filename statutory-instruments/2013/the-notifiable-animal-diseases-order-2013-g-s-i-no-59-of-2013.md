@@ -1,0 +1,25 @@
+# The Notifiable Animal Diseases Order, 2013 (G.S.I. No. 59 of 2013)
+
+GUERNSEY STATUTORY INSTRUMENT 2013 No. £9 GREFFE ROYAL COURT 0 8 NOV 2013 GU~.F’N3EY The Notifiable Animal Diseases Order, 2013 Made Coming into operation Laid before the States 5th November 2013 ~ December 2013 THE COMMERCE AND EMPLOYMENT DEPARTMENT, in exercise of the powers conferred on it by section 1(4) of the Animal Health Ordinance, 1996a, and of all other powers enabling it in that behalf, hereby orders: Replacement of Schedule 1 of the Ordinance.
+
+1. Schedule 1 to the Animal Health Ordinance, 1996 is replaced by the Schedule to this Order. Interpretation.
+
+2. (1) The Interpretation (Guernsey) Law, applies to the interpretation of this Order. Repeal
+
+(2) Any reference in this Order to an enactment is a reference thereto as a and Tome XXXI, p.567. from time to time amended, re-enacted (with or without modification), extended or applied.
+
+3. The Notifiable Animal Diseases Order, 2OO2~ is repealed. Recueil d’Ordonnances Tome XXVII, p.10, Tome XXIX, p.397, Tome XXXI, p.260 Ordres en Conseil Vol. XIII, p. 355. C GST No. 56 of 2002.
+
+Citation.
+
+4. This Order may be cited as the Notifiable Animal Diseases Order, 2013. Commencement.
+
+5. This Order shall come into force on ~ December 2013. Dated this 5th day of November 2013 Deputy K.A. Stewart Minister of the States Commence and Employment Department For and on behalf of the Department
+
+EXPLANATORY NOTE (This note is not part of the Order) This Order updates the list of animal diseases which must be notified to the Department if it occurs or is suspected in an animal. The revised list reflects the list of diseases currently published by the Office International des Epizooties (OlE) as significant in terms of animal health or important in terms of economic impact. The order comes into force on l~ December
+
+2013. SCHEDULE NOTIFIABLE ANIMAL DISEASES PART 1 COMPULSORY SLAUGHTER DISEASES Disease Affected Species African Horse Sickness equ African Swine Fever sui Avian Influenza avi Bluetongue bov/buf’ovi/suilequ Bovine Spongifom~ Encephalopathy bov/buf Bovine Tuberculosis bov/buf’cap/ovi/suilcml/cer/fau/fel Brucellosis (Brucella abortus) bov/buf/equ Brucellosis (Brucella melitensis) cap/ovi Contagious Bovine Pleuro pneumonia bov/buf Classical Swine Fever sui Dourine equ Enzootic Bovine Leukosis bov/buf Epizootic Lymphangitis equ Equine Viral Encephalomyelitis (all types) equ Equine Infectious Anaemia equ European bat lyssavinis (EBLV) fau Foot and Mouth Disease bov/builovi/sui/cap/cer Glanders or Farcy equ Newcastle Disease avi Peste des petits ruminants (PPR) ovi/cap PART 2 OTHER NOTIFIABLE ANIMAL DISEASES Disease Affected Species Anthrax any animal Avian Chlamydiosis (Psittacosis) pou
+
+Border Disease ovi/cap Borna disease (Bornavirus) equ Bovine viral diarrhoea bov/buf Brucella ovis (Ovine epididymitis) ovi Brucella suis sui/equ Carnie arthritis and encephalitis (CAE) cap Caseous lymphadenitis (CLA) ovi/cap/fau Contagious Agelactia ovi/cap Contagious Equine Metritis equ Crimean—Congo hemorrhagic fever (CCHF) bov/ovi/cap/fau Echinococcus granulosus ovi/cap/suilcml/cer/fau Echinococcus multilocularis ovi/cap/sui/cml/cer/fau Enterovirus Encephalomyelitis sui Enzootic Abortion of Ewes (Ovine Chlamydiosis) ovi/cap Equine viral arteritis equ Equine Viral Arteritis equ Filariosis ovi/sui/can/fau Fowl Cholera avilfau Fowl Pox avilfau Fowl Typhoid and pullorum disease (Salmonella enterica) avi Hendra virus infection equ Infectious Bovine Rhinotracheitis bov/buf Infectious Bronchitis avi Infectious coryza avi Japanse Encephalitis equ/sui Leishmaniasis equ/can Leptospirosis (Leptospira hardjo) bov/sui/ovi/cap/buVcer Lumpy skin disease bov/buf Maedi-visna ovi Mareks disease avi Melioidosis ovi/cap New World Screwworm (Cochliomyia hominivorax)bov/buf’ovi/cap/cml/sui/can/fel/fau Nipah virus encephalitis sui
+
+Old World Screwworm (Cochliomyia bezziana) bovfbuf’ovi/cap/cmL/sui/avi/lep/can/ fel/fau Ovine Epididymitis (Bnicella Ovis) ovi Ovine Pulmonary Adenomatosis (jaagseikte) ovi/cap Paratuberculosis (Johne’ s Disease) bov/buf/ovi/cap Porcine Brucellosis suilfau Porcine Cysticercosis sui Q fever bov/ovilcap/buflequ Rift Valley fever bov/buf Scrape ovi/cap Surra (Trypanosoma evansi) bov/buf/equlcml Transmissible gastroenteritis sui Trichonella spp. sui Tularemia lep/fau Vesicular stomatitis bov/buVequ Warble fly bov/butlequ West Nile virus equ “avi” poultry and any other bird “boy” bovine (cattle and any other animal of the bovine species). “buf’ buffalo. “can” canidae (includes animal such as dogs) “cap” caprine (goats and any other animal of the caprine species). “cer” cervidae (includes animals such as deer). “cml” camelidae (includes animal such as camels). “thu” any susceptible wild fauna. “fel” felidae (animals of the cat species). “equ” equine (horses and any animal of the equine species). “lep” leporidae (rabbits and hares). “ovi” ovine (sheep and any other animal of the ovine species). “pou” only poultry. “sui” suidae (pigs and any animals of the pig species).
