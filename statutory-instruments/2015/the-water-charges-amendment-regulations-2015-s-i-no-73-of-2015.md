@@ -1,0 +1,19 @@
+# The Water Charges (Amendment) Regulations, 2015 (S.I. No. 73 of 2015)
+
+..9..E'EFg.- ROVAL ee)DRT - 1 0CT 2015 GUERNSEY STATUTORY INSTRUMENT 2015 No. 73 GUERNSEY f The Water Charges (Amendment) Regulations, 2015 Made Coming into operation Laid before the States 28" September, 2015 1"' January, 2016 THE PUBLIC SERVICES DEPARTMENT, in exercise of the powers conferred on it by section 17 of the Loi ayant rapport a la Fourniture d'Eau par les Etats de cette Ile aux Habitants de la dite Ile, 1927, as amendeda, sections 1 and s of . b the Fees, Charges and Penalties (Guernsey) Law, 2007 and all other powers enabling it in that behalf, hereby make the following Regulations:- Increase in water charges for 2016. 1. For paragraphs l and 2 of the Schedule to the Water Charges Ordinance 1991c, as amended, substitute the following paragraphs - "1. The charges which may be made under section s for a supply of water to a property by measure are - (a) a charge of El.94 per cubic metre of water supplied, and a Ordres ell Conseil Vol. VIII, p. 112, as amended by Ordres ell Conseil Vol. XI, p. 236; Vol. XV, p. 272; Vol. XXVI, p. 536; Vol. XXX, pp. 118 and 219; and Vol. XXXIII, p. 133. !lpa b Order in Council No. VII of 2008; as amended by Order in Council No. VIII of 2010; Recueil d'Ordonnances Tome XXXIII, p. 38; Ordinance No. IV of 2011; No. XLIII of 2013; and No. XLIII of 2014. c Recueil d'Ordonnances Tome XXV, p. 287; as amended by Tome XXIX, pp. 406 and 594; G.S.I. No. 33 of 2006; G.S.I. No. 40 of 2006; G.S.I. No. 29 of 2007; G.S.I. No. 38 of 2008; G.S.I. No.78 of 2009; G.S.I. No. 14 of 2010; G.S.I. No. 47 of 2011; G.S.I. No. 76 of 2012; and G.S.I. Nos. 2 and 72 of 2014.
+
+(b) the quarterly charge in column 2 below appearing opposite the size shown in column 1 of the meter which measures the property's supply. I
+
+1. Size of meter 15 mm (!/!?) 20mm(%?) 25 rnm (1?) 40 mm (1%?) 50 mm (2") 75 mm (3") 100 turn (4?) r
+
+2. Quarterly charge f27.82 f41.49 f45.96 f51.72 f54.71 E57.49 f63.21 I 2. The charge which may be made under section 4 or 6 for a supply of water for domestic purposes to a property otherwise than by measure is the quarterly charge in column 2 below and a quarterly charge of f0.52 multiplied by each assessable unit of the property as calculated for the purposes of property tax under the provisions of the Taxation of Real . d Property (Guernsey and Alderney) Ordinance, 2007 . I I
+
+1. Rate per assessable unit of TRP f0.52 I I
+
+2. Quarterly charge f27.82 I l !l Revocation. 2. The Water Charges (Amendment) (No. 2) Regulations, 20l4e are revoked. Interpretation. .
+
+f. 3. (1) The Interpretation (Guernsey) Law, 1948 applies to the d Recueil d'Ordomiances Tome XXXII, p.504, as amended Order in Council No. XIII of 2010; Recueil d'Ordonnances Tome XXXIII, p. 45, 332 and 674; No. LIII of 2010; No. XLVIII of 2011; No's XIII and LI 2012; -No. XXVII of 2013'; No. XLI of 2014; and G.S.I. No. 54 of 2008; G.S.I. No.l09 of 2010; No. 40 of 2011; No. 51 of 2013. e G.S.I. No. 72 of 2014. f Ordres ell Conseil Vol. XIII. p. 355. ipa
+
+interpretation of these Regulations. (2) Any reference in these Regulations to an enactment is a reference thereto as from time to time amended, re-enacted (with or without modification), extended or applied. Citation. 4. These Regulations may be cited as the Water Charges (Amendment) Regulations, 2015. Commencement. s. These Regulations shall come into force on the 1"' January, 2016. Dated this 1st day of October 2015 DEPUTY S OGIER Deputy Minister of the States Public Services Department For and on behalf of the Department
+
+EXPLANATORY NOTE (This note is not parl of the Regulations) These Regulations prescribe the charges which will be made for the supply of water for 2016. These Regulations come into force on la' January, 2016.
