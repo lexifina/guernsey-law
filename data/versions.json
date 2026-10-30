@@ -1,0 +1,2431 @@
+{
+ "country": "GG",
+ "acts": [
+  {
+   "slug": "catalogue",
+   "short": "Catalogue",
+   "title": "Catalogue of UK statutory instruments with Guernsey in their title (facts only)",
+   "url": "https://www.legislation.gov.uk/uksi",
+   "versions": [
+    {
+     "from": "1949-08-22",
+     "units": 1,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1950-11-02",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1951-06-25",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1951-12-04",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1952-06-23",
+     "units": 5,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1952-06-24",
+     "units": 6,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1952-08-28",
+     "units": 7,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1952-12-04",
+     "units": 8,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1955-04-07",
+     "units": 9,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1955-09-08",
+     "units": 10,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1958-01-20",
+     "units": 11,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1958-07-30",
+     "units": 12,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1960-02-08",
+     "units": 13,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1961-01-17",
+     "units": 14,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1962-06-27",
+     "units": 15,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1963-08-29",
+     "units": 16,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1963-12-20",
+     "units": 17,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1964-06-23",
+     "units": 18,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1964-12-22",
+     "units": 19,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1965-05-14",
+     "units": 20,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1965-10-29",
+     "units": 21,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1966-04-06",
+     "units": 23,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1966-06-09",
+     "units": 24,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1966-07-25",
+     "units": 25,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1966-07-28",
+     "units": 26,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1966-08-11",
+     "units": 27,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1966-09-20",
+     "units": 28,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1967-02-24",
+     "units": 29,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1967-05-24",
+     "units": 32,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1967-07-28",
+     "units": 33,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1967-08-23",
+     "units": 34,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1968-03-04",
+     "units": 35,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1968-07-26",
+     "units": 36,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1969-02-10",
+     "units": 37,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1969-05-23",
+     "units": 38,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1969-08-28",
+     "units": 39,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1969-09-24",
+     "units": 40,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1971-03-03",
+     "units": 41,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1971-10-27",
+     "units": 43,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1972-03-23",
+     "units": 44,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1973-03-29",
+     "units": 45,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1973-12-07",
+     "units": 46,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1974-06-28",
+     "units": 47,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1978-10-24",
+     "units": 49,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1979-05-23",
+     "units": 50,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1980-04-21",
+     "units": 51,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1980-06-24",
+     "units": 52,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1980-12-17",
+     "units": 53,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1981-12-16",
+     "units": 55,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1982-10-27",
+     "units": 56,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1983-11-18",
+     "units": 57,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1983-12-21",
+     "units": 58,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1984-02-08",
+     "units": 59,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1985-07-31",
+     "units": 60,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1985-10-30",
+     "units": 61,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1986-07-08",
+     "units": 62,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1986-11-05",
+     "units": 65,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1987-04-07",
+     "units": 66,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1987-07-21",
+     "units": 68,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1987-11-26",
+     "units": 69,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1988-07-27",
+     "units": 70,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1988-10-26",
+     "units": 72,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1988-11-14",
+     "units": 73,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1988-12-08",
+     "units": 74,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1989-04-18",
+     "units": 76,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1989-11-01",
+     "units": 78,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1989-12-19",
+     "units": 81,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1990-02-14",
+     "units": 83,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1990-10-31",
+     "units": 87,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1990-11-20",
+     "units": 88,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1991-02-05",
+     "units": 89,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1991-03-20",
+     "units": 91,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1991-07-24",
+     "units": 93,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1991-09-09",
+     "units": 94,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1991-10-16",
+     "units": 95,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1991-11-19",
+     "units": 96,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1991-12-19",
+     "units": 97,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1992-02-11",
+     "units": 98,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1992-03-16",
+     "units": 99,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1992-07-15",
+     "units": 100,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1992-12-17",
+     "units": 101,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1993-07-20",
+     "units": 103,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1993-10-27",
+     "units": 106,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1994-03-15",
+     "units": 107,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1994-04-13",
+     "units": 108,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1994-11-02",
+     "units": 109,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1994-12-14",
+     "units": 110,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1995-04-04",
+     "units": 111,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1995-04-11",
+     "units": 112,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1996-03-13",
+     "units": 115,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1997-02-12",
+     "units": 116,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1997-07-22",
+     "units": 118,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1997-12-10",
+     "units": 119,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1997-12-17",
+     "units": 121,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1998-02-11",
+     "units": 122,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1998-04-22",
+     "units": 123,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1998-05-19",
+     "units": 124,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1998-06-24",
+     "units": 126,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1999-05-11",
+     "units": 128,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "1999-12-10",
+     "units": 129,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2000-03-15",
+     "units": 130,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2000-10-11",
+     "units": 131,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2003-11-13",
+     "units": 132,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2003-12-10",
+     "units": 134,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2004-02-11",
+     "units": 135,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2004-03-10",
+     "units": 136,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2004-04-14",
+     "units": 137,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2004-05-06",
+     "units": 138,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2005-03-22",
+     "units": 139,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2005-05-07",
+     "units": 140,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2006-03-20",
+     "units": 141,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2006-12-14",
+     "units": 142,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2008-12-10",
+     "units": 143,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2009-11-17",
+     "units": 144,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2009-12-09",
+     "units": 145,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2009-12-14",
+     "units": 146,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2010-11-08",
+     "units": 147,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2010-12-15",
+     "units": 148,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2011-03-10",
+     "units": 149,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2011-04-07",
+     "units": 150,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2011-10-12",
+     "units": 151,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2012-07-10",
+     "units": 152,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2012-08-14",
+     "units": 153,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2012-10-23",
+     "units": 154,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2012-11-07",
+     "units": 156,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2013-02-12",
+     "units": 157,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2013-12-11",
+     "units": 158,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2014-04-28",
+     "units": 159,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2015-03-19",
+     "units": 160,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2015-07-15",
+     "units": 161,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2015-12-09",
+     "units": 162,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2016-07-13",
+     "units": 163,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2016-10-12",
+     "units": 164,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2018-04-24",
+     "units": 165,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2018-10-10",
+     "units": 166,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2018-11-09",
+     "units": 167,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2018-12-12",
+     "units": 168,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2019-02-13",
+     "units": 169,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2019-07-10",
+     "units": 170,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2019-09-24",
+     "units": 171,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2020-03-11",
+     "units": 172,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2020-12-16",
+     "units": 173,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2022-03-14",
+     "units": 174,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2022-07-19",
+     "units": 175,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2022-11-09",
+     "units": 176,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2023-06-14",
+     "units": 177,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2023-07-03",
+     "units": 178,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2024-11-05",
+     "units": 179,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2025-07-09",
+     "units": 180,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2025-10-15",
+     "units": 181,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    },
+    {
+     "from": "2026-09-07",
+     "units": 182,
+     "source_url": "https://www.legislation.gov.uk/uksi/data.feed?title=guernsey",
+     "sha256": "5a800ae3ceaec9c2a965e4c24039d8a35ab3f77ef54eab94ee77fa7683c7edc5"
+    }
+   ]
+  },
+  {
+   "slug": "admiralty-jurisdiction-guernsey-order-1993-si-1993-2664",
+   "short": "SI 1993/2664",
+   "title": "The Admiralty Jurisdiction (Guernsey) Order 1993 (SI 1993/2664), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1993/2664/made",
+   "versions": [
+    {
+     "from": "1993-12-01",
+     "units": 5,
+     "source_url": "https://www.legislation.gov.uk/uksi/1993/2664/made/data.xml",
+     "sha256": "c55ea0b76ac97b77339587c2bd2a5990c7fdb9011d4090bd4ff50f4b824b70d8"
+    }
+   ]
+  },
+  {
+   "slug": "air-force-act-1955-bailiwick-of-guernsey-order-1-si-1996-718",
+   "short": "SI 1996/718",
+   "title": "The Air Force Act 1955 (Bailiwick of Guernsey) Order 1996 (SI 1996/718), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1996/718/made",
+   "versions": [
+    {
+     "from": "1996-06-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1996/718/made/data.xml",
+     "sha256": "c41add211a1bcf081738c13fafdf4462aaa60f5e9b82c453535f11096a2dabf8"
+    }
+   ]
+  },
+  {
+   "slug": "air-navigation-general-guernsey-regulations-1972-si-1972-486",
+   "short": "SI 1972/486",
+   "title": "The Air Navigation (General) (Guernsey) Regulations 1972 (SI 1972/486), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1972/486/made",
+   "versions": [
+    {
+     "from": "1972-04-01",
+     "units": 5,
+     "source_url": "https://www.legislation.gov.uk/uksi/1972/486/made/data.xml",
+     "sha256": "1ee1c7246218c3ca8b5440e93ddc32b5001c5701a39972f6fa1c99f9cba7bbfc"
+    }
+   ]
+  },
+  {
+   "slug": "arbitration-international-investment-disputes-gu-si-1968-1199",
+   "short": "SI 1968/1199",
+   "title": "The Arbitration (International Investment Disputes) (Guernsey) Order 1968 (SI 1968/1199), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1968/1199/made",
+   "versions": [
+    {
+     "from": "1968-09-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1968/1199/made/data.xml",
+     "sha256": "cda2d35747cdbba9f7118b5b77c4aaa8497ba2514a07f028c6f4fc829f301906"
+    }
+   ]
+  },
+  {
+   "slug": "army-act-1955-bailiwick-of-guernsey-order-1996-si-1996-722",
+   "short": "SI 1996/722",
+   "title": "The Army Act 1955 (Bailiwick of Guernsey) Order 1996 (SI 1996/722), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1996/722/made",
+   "versions": [
+    {
+     "from": "1996-06-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1996/722/made/data.xml",
+     "sha256": "e1218d4c644baad179074c1711618aebc86aacf9dcd05bf2682452c67234b075"
+    }
+   ]
+  },
+  {
+   "slug": "asylum-and-immigration-act-1996-guernsey-order-1-si-1998-1264",
+   "short": "SI 1998/1264",
+   "title": "The Asylum and Immigration Act 1996 (Guernsey) Order 1998 (SI 1998/1264), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1998/1264/made",
+   "versions": [
+    {
+     "from": "1998-07-20",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1998/1264/made/data.xml",
+     "sha256": "d3d3185524f0fd80ea66f100cc6a50552447cfeafa66b6ef2313f405a082f7f9"
+    }
+   ]
+  },
+  {
+   "slug": "aviation-security-guernsey-order-1997-si-1997-2989",
+   "short": "SI 1997/2989",
+   "title": "The Aviation Security (Guernsey) Order 1997 (SI 1997/2989), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1997/2989/made",
+   "versions": [
+    {
+     "from": "1998-01-17",
+     "units": 6,
+     "source_url": "https://www.legislation.gov.uk/uksi/1997/2989/made/data.xml",
+     "sha256": "1293c8b814b76a516763a036b5a6d8aa371ea67d571934ef89b112df541b2cf6"
+    }
+   ]
+  },
+  {
+   "slug": "biological-weapons-act-1974-guernsey-order-1974-si-1974-1110",
+   "short": "SI 1974/1110",
+   "title": "The Biological Weapons Act 1974 (Guernsey) Order 1974 (SI 1974/1110), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1974/1110/made",
+   "versions": [
+    {
+     "from": "1974-07-22",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1974/1110/made/data.xml",
+     "sha256": "f4eb2e60fb47d4e16baf86e4ee43c13fbabd377b684e9e433661b0cd28f24748"
+    }
+   ]
+  },
+  {
+   "slug": "british-fishing-boats-act-1983-guernsey-order-19-si-1985-1203",
+   "short": "SI 1985/1203",
+   "title": "The British Fishing Boats Act 1983 (Guernsey) Order 1985 (SI 1985/1203), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1985/1203/made",
+   "versions": [
+    {
+     "from": "1985-10-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1985/1203/made/data.xml",
+     "sha256": "85fbdb4eda7cf45da3874892ebc738e5cf198e83cca4c3295a6be85546ae0d2b"
+    }
+   ]
+  },
+  {
+   "slug": "broadcasting-act-1990-guernsey-no-2-order-1991-si-1991-1709",
+   "short": "SI 1991/1709",
+   "title": "The Broadcasting Act 1990 (Guernsey) (No. 2) Order 1991 (SI 1991/1709), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1991/1709/made",
+   "versions": [
+    {
+     "from": "1991-08-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1991/1709/made/data.xml",
+     "sha256": "3bab39592b07b85b4be6cfef9d555b4a481d09cf1c074c43b32e577359df7308"
+    }
+   ]
+  },
+  {
+   "slug": "broadcasting-act-1990-guernsey-order-1991-si-1991-191",
+   "short": "SI 1991/191",
+   "title": "The Broadcasting Act 1990 (Guernsey) Order 1991 (SI 1991/191), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1991/191/made",
+   "versions": [
+    {
+     "from": "1991-02-13",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1991/191/made/data.xml",
+     "sha256": "5fcfc54ef701cad8b9646c89cda4be6c59efea4e70361fbcb1a2dcdf6b2ff07d"
+    }
+   ]
+  },
+  {
+   "slug": "broadcasting-act-1996-british-broadcasting-corpo-si-1997-1755",
+   "short": "SI 1997/1755",
+   "title": "The Broadcasting Act 1996 (British Broadcasting Corporation—Transmission Network) (Guernsey) Order 1997 (SI 1997/1755), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1997/1755/made",
+   "versions": [
+    {
+     "from": "1997-08-22",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1997/1755/made/data.xml",
+     "sha256": "1c53fb6f191686bfc1afe26b576bed17932747dece44b0e90071db5e323b3911"
+    }
+   ]
+  },
+  {
+   "slug": "broadcasting-guernsey-order-1999-si-1999-1314",
+   "short": "SI 1999/1314",
+   "title": "The Broadcasting (Guernsey) Order 1999 (SI 1999/1314), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1999/1314/made",
+   "versions": [
+    {
+     "from": "1999-05-12",
+     "units": 5,
+     "source_url": "https://www.legislation.gov.uk/uksi/1999/1314/made/data.xml",
+     "sha256": "77215ac3f5ef7d1919ee77e92c84be83fc129ae3fe0d025c07e32599f775e400"
+    }
+   ]
+  },
+  {
+   "slug": "broadcasting-guernsey-order-2003-si-2003-3192",
+   "short": "SI 2003/3192",
+   "title": "The Broadcasting (Guernsey) Order 2003 (SI 2003/3192), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2003/3192/made",
+   "versions": [
+    {
+     "from": "2003-12-29",
+     "units": 6,
+     "source_url": "https://www.legislation.gov.uk/uksi/2003/3192/made/data.xml",
+     "sha256": "f7057c8b17324c30c0bdd92d356f051848e96f3416d2b9ba968e76790c2f895a"
+    }
+   ]
+  },
+  {
+   "slug": "building-societies-guernsey-and-alderney-order-1-si-1988-1394",
+   "short": "SI 1988/1394",
+   "title": "The Building Societies (Guernsey and Alderney) Order 1988 (SI 1988/1394), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1988/1394/made",
+   "versions": [
+    {
+     "from": "1988-08-30",
+     "units": 9,
+     "source_url": "https://www.legislation.gov.uk/uksi/1988/1394/made/data.xml",
+     "sha256": "c4cb4b8f78abf8b6251d2f7420adc6bba9bd5e47d6c8d7f0f3eb3282b8de252d"
+    }
+   ]
+  },
+  {
+   "slug": "carriage-by-air-acts-application-of-provisions-g-si-1967-807",
+   "short": "SI 1967/807",
+   "title": "The Carriage by Air Acts (Application of Provisions) (Guernsey) Order 1967 (SI 1967/807), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1967/807/made",
+   "versions": [
+    {
+     "from": "1967-06-01",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/1967/807/made/data.xml",
+     "sha256": "2555d56d98af0c23462a6dfe7b0baa054cb1aa4720632ac2b708df1203f3ef2e"
+    }
+   ]
+  },
+  {
+   "slug": "carriage-by-air-guernsey-order-1967-si-1967-804",
+   "short": "SI 1967/804",
+   "title": "The Carriage by Air (Guernsey) Order 1967 (SI 1967/804), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1967/804/made",
+   "versions": [
+    {
+     "from": "1967-06-01",
+     "units": 5,
+     "source_url": "https://www.legislation.gov.uk/uksi/1967/804/made/data.xml",
+     "sha256": "86c2b0aa0119ef1b37d016dbf333067cd175096fa13625e7bcd790e34d0a1ea5"
+    }
+   ]
+  },
+  {
+   "slug": "carriage-of-goods-by-road-guernsey-order-1986-si-1986-1882",
+   "short": "SI 1986/1882",
+   "title": "The Carriage of Goods by Road (Guernsey) Order 1986 (SI 1986/1882), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1986/1882/made",
+   "versions": [
+    {
+     "from": "1987-01-07",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1986/1882/made/data.xml",
+     "sha256": "4fdcfcc2ed93b6f6f0637e583023359195a53b4915393524210afa480f4c6dd0"
+    }
+   ]
+  },
+  {
+   "slug": "chemical-weapons-act-1996-guernsey-order-2000-si-2000-743",
+   "short": "SI 2000/743",
+   "title": "The Chemical Weapons Act 1996 (Guernsey) Order 2000 (SI 2000/743), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2000/743/made",
+   "versions": [
+    {
+     "from": "2000-04-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/2000/743/made/data.xml",
+     "sha256": "8a1b4f9a4bad5ea3bf5b8d17658cd3900386ad27431231cad7faa66f7c0dcf09"
+    }
+   ]
+  },
+  {
+   "slug": "children-and-young-persons-designation-of-guerns-si-1971-348",
+   "short": "SI 1971/348",
+   "title": "The Children and Young Persons (Designation of Guernsey Order) Order 1971 (SI 1971/348), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1971/348/made",
+   "versions": [
+    {
+     "from": "1971-03-22",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/1971/348/made/data.xml",
+     "sha256": "a1a953de183c7b370a6cf46abc68cda5c7cf9460b9018169a4cc0d5135f4b575"
+    }
+   ]
+  },
+  {
+   "slug": "children-prescribed-orders-northern-ireland-guer-si-1991-2032",
+   "short": "SI 1991/2032",
+   "title": "The Children (Prescribed Orders — Northern Ireland, Guernsey and Isle of Man) Regulations 1991 (SI 1991/2032), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1991/2032/made",
+   "versions": [
+    {
+     "from": "1991-10-14",
+     "units": 8,
+     "source_url": "https://www.legislation.gov.uk/uksi/1991/2032/made/data.xml",
+     "sha256": "6477f1f843e3a474550b18815c9c4c469bcb3b1bfa53148e2c790a216968376b"
+    }
+   ]
+  },
+  {
+   "slug": "children-prescribed-orders-northern-ireland-guer-si-2006-837",
+   "short": "SI 2006/837",
+   "title": "The Children (Prescribed Orders – Northern Ireland, Guernsey and Isle of Man) Amendment Regulations 2006 (SI 2006/837), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2006/837/made",
+   "versions": [
+    {
+     "from": "2006-04-12",
+     "units": 7,
+     "source_url": "https://www.legislation.gov.uk/uksi/2006/837/made/data.xml",
+     "sha256": "63820ba00d1151ce868e4aeaa79b3dbab55606751eb367a008d88b3d03ad5316"
+    }
+   ]
+  },
+  {
+   "slug": "civil-aviation-act-1980-guernsey-order-1984-si-1984-130",
+   "short": "SI 1984/130",
+   "title": "The Civil Aviation Act 1980 (Guernsey) Order 1984 (SI 1984/130), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1984/130/made",
+   "versions": [
+    {
+     "from": "1984-04-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1984/130/made/data.xml",
+     "sha256": "39e7e901fcc0582b9eac99a12641513608317ff93eeeac49e8c7bcc07ca511aa"
+    }
+   ]
+  },
+  {
+   "slug": "civil-aviation-act-1982-guernsey-amendment-order-si-1992-806",
+   "short": "SI 1992/806",
+   "title": "The Civil Aviation Act 1982 (Guernsey) (Amendment) Order 1992 (SI 1992/806), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1992/806/made",
+   "versions": [
+    {
+     "from": "1992-03-17",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/1992/806/made/data.xml",
+     "sha256": "13f6683ff5cc267df09a4890b28285b7779d2b9a8b94c8769338d1b1a9cd79a2"
+    }
+   ]
+  },
+  {
+   "slug": "civil-aviation-act-1982-guernsey-order-1992-si-1992-230",
+   "short": "SI 1992/230",
+   "title": "The Civil Aviation Act 1982 (Guernsey) Order 1992 (SI 1992/230), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1992/230/made",
+   "versions": [
+    {
+     "from": "1992-03-11",
+     "units": 5,
+     "source_url": "https://www.legislation.gov.uk/uksi/1992/230/made/data.xml",
+     "sha256": "2fec9b426e09f17569ca8f4e6271a07f969bd369236b97af5fd99c9bb5bd625a"
+    }
+   ]
+  },
+  {
+   "slug": "civil-aviation-investigation-of-air-accidents-an-si-1998-1503",
+   "short": "SI 1998/1503",
+   "title": "The Civil Aviation (Investigation of Air Accidents and Incidents) (Guernsey) Order 1998 (SI 1998/1503), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1998/1503/made",
+   "versions": [
+    {
+     "from": "1998-08-24",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1998/1503/made/data.xml",
+     "sha256": "1ac601d357e2b812162f0770f9d31288d99b037f8afed67f1f7667b1020c2c38"
+    }
+   ]
+  },
+  {
+   "slug": "civil-aviation-investigation-of-air-accidents-an-si-2023-662",
+   "short": "SI 2023/662",
+   "title": "The Civil Aviation (Investigation of Air Accidents and Incidents) (Guernsey) Order 2023 (SI 2023/662), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2023/662/made",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/2023/662/made/data.xml",
+     "sha256": "9282ddf792caebc09386ed667513d31119342ca83ce6f2644d5c995f1b5d42ed"
+    }
+   ]
+  },
+  {
+   "slug": "collision-regulations-seapanes-guernsey-amendmen-si-1991-769",
+   "short": "SI 1991/769",
+   "title": "The Collision Regulations (Seapanes) (Guernsey) (Amendment) Order 1991 (SI 1991/769), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1991/769/made",
+   "versions": [
+    {
+     "from": "1991-04-19",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/1991/769/made/data.xml",
+     "sha256": "ff7f06f965ca09f02c86b7d6bdc7cca0b08c120b2aeeec5a7eb96ab724efd292"
+    }
+   ]
+  },
+  {
+   "slug": "collision-regulations-seaplanes-guernsey-order-1-si-1990-252",
+   "short": "SI 1990/252",
+   "title": "The Collision Regulations (Seaplanes) (Guernsey) Order 1990 (SI 1990/252), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1990/252/made",
+   "versions": [
+    {
+     "from": "1990-03-16",
+     "units": 5,
+     "source_url": "https://www.legislation.gov.uk/uksi/1990/252/made/data.xml",
+     "sha256": "13ace4b9bb07e60fcf778a32dc7e2ff8ab9e6c2a7b2e92a650533516b62fd0c3"
+    }
+   ]
+  },
+  {
+   "slug": "communications-bailiwick-of-guernsey-amendment-o-si-2005-856",
+   "short": "SI 2005/856",
+   "title": "The Communications (Bailiwick of Guernsey) (Amendment) Order 2005 (SI 2005/856), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2005/856/made",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/2005/856/made/data.xml",
+     "sha256": "f18886d50d0612ccefd7f07d84295a46e24ced7f2077adb2989803ec31bba809"
+    }
+   ]
+  },
+  {
+   "slug": "communications-bailiwick-of-guernsey-amendment-o-si-2012-2688",
+   "short": "SI 2012/2688",
+   "title": "The Communications (Bailiwick of Guernsey) (Amendment) Order 2012 (SI 2012/2688), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2012/2688/made",
+   "versions": [
+    {
+     "from": "2012-12-05",
+     "units": 5,
+     "source_url": "https://www.legislation.gov.uk/uksi/2012/2688/made/data.xml",
+     "sha256": "a6d3a0ac5476a04cd3e4d44abba9fbf4912e6342d54051a676aa5488b8a0dff0"
+    }
+   ]
+  },
+  {
+   "slug": "communications-bailiwick-of-guernsey-no-2-order-si-2004-715",
+   "short": "SI 2004/715",
+   "title": "The Communications (Bailiwick of Guernsey) (No.2) Order 2004 (SI 2004/715), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2004/715/made",
+   "versions": [
+    {
+     "from": "2004-03-26",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/2004/715/made/data.xml",
+     "sha256": "2b3fdfb2cfeb9c024e618ec78a7d2511c6bfc386bb26e8328e881c680ebe7c2e"
+    }
+   ]
+  },
+  {
+   "slug": "communications-bailiwick-of-guernsey-no-3-order-si-2004-1116",
+   "short": "SI 2004/1116",
+   "title": "The Communications (Bailiwick of Guernsey) (No. 3) Order 2004 (SI 2004/1116), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2004/1116/made",
+   "versions": [
+    {
+     "from": "2004-04-23",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/2004/1116/made/data.xml",
+     "sha256": "9d133edf723d474eecf16c13ef7e872cd8603e6a7189ce80720e95d7d3bad2f5"
+    }
+   ]
+  },
+  {
+   "slug": "communications-bailiwick-of-guernsey-order-2003-si-2003-3195",
+   "short": "SI 2003/3195",
+   "title": "The Communications (Bailiwick of Guernsey) Order 2003 (SI 2003/3195), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2003/3195/made",
+   "versions": [
+    {
+     "from": "2003-12-29",
+     "units": 8,
+     "source_url": "https://www.legislation.gov.uk/uksi/2003/3195/made/data.xml",
+     "sha256": "09cad0812858ad4ae97cdc98bbacd675a87b93a1e8b04c4a1ca09cd3d62d9b9c"
+    }
+   ]
+  },
+  {
+   "slug": "communications-bailiwick-of-guernsey-order-2004-si-2004-307",
+   "short": "SI 2004/307",
+   "title": "The Communications (Bailiwick of Guernsey) Order 2004 (SI 2004/307), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2004/307/made",
+   "versions": [
+    {
+     "from": "2004-02-27",
+     "units": 6,
+     "source_url": "https://www.legislation.gov.uk/uksi/2004/307/made/data.xml",
+     "sha256": "531f23ee31fc012d2eb99a58d62344f45780b857c2f3b55246b1c660462da8d4"
+    }
+   ]
+  },
+  {
+   "slug": "community-radio-guernsey-order-2013-si-2013-243",
+   "short": "SI 2013/243",
+   "title": "The Community Radio (Guernsey) Order 2013 (SI 2013/243), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2013/243/made",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 8,
+     "source_url": "https://www.legislation.gov.uk/uksi/2013/243/made/data.xml",
+     "sha256": "feb8b137e4ace92f0d8fd4dd3792adff314ffcef11bfaf86b68659b3504284c1"
+    }
+   ]
+  },
+  {
+   "slug": "copyright-designs-and-patents-act-1988-guernsey-si-1989-1997",
+   "short": "SI 1989/1997",
+   "title": "The Copyright, Designs and Patents Act 1988 (Guernsey) Order 1989 (SI 1989/1997), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1989/1997/made",
+   "versions": [
+    {
+     "from": "1989-12-01",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/1989/1997/made/data.xml",
+     "sha256": "9a2ea6dad4fa0222e0e4ee99ef6e0b5ba5756f1ab5d3240144da6fe9f3134e33"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-justice-act-1982-guernsey-order-1986-si-1986-1884",
+   "short": "SI 1986/1884",
+   "title": "The Criminal Justice Act 1982 (Guernsey) Order 1986 (SI 1986/1884), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1986/1884/made",
+   "versions": [
+    {
+     "from": "1986-12-01",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/1986/1884/made/data.xml",
+     "sha256": "f750637a3a0e86be7c84bcf6d73a952aebb853a133c47803b7d2876eee13929e"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-justice-act-1982-guernsey-order-1992-si-1992-3202",
+   "short": "SI 1992/3202",
+   "title": "The Criminal Justice Act 1982 (Guernsey) Order 1992 (SI 1992/3202), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1992/3202/made",
+   "versions": [
+    {
+     "from": "1993-02-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1992/3202/made/data.xml",
+     "sha256": "fe80013e4880cc422d04cfda700bc7b215324a90d39c8e04064c05e39a98a5ff"
+    }
+   ]
+  },
+  {
+   "slug": "criminal-justice-act-1987-guernsey-order-1989-si-1989-674",
+   "short": "SI 1989/674",
+   "title": "The Criminal Justice Act 1987 (Guernsey) Order 1989 (SI 1989/674), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1989/674/made",
+   "versions": [
+    {
+     "from": "1989-05-18",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1989/674/made/data.xml",
+     "sha256": "2d2ebcdee65c622296459b4318060b9afaa0ca5e02300f899b13b2974d40c4f8"
+    }
+   ]
+  },
+  {
+   "slug": "data-protection-law-enforcement-adequacy-bailiwi-si-2023-744",
+   "short": "SI 2023/744",
+   "title": "The Data Protection (Law Enforcement) (Adequacy) (Bailiwick of Guernsey) Regulations 2023 (SI 2023/744), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2023/744/made",
+   "versions": [
+    {
+     "from": "2023-07-28",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/2023/744/made/data.xml",
+     "sha256": "3dbdc2b96d6fbf0779c308610bd9a8707b51ec10e7b5165b94c5ee3ff956844a"
+    }
+   ]
+  },
+  {
+   "slug": "deep-sea-mining-temporary-provisions-act-1981-gu-si-1997-2978",
+   "short": "SI 1997/2978",
+   "title": "The Deep Sea Mining (Temporary Provisions) Act 1981 (Guernsey) Order 1997 (SI 1997/2978), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1997/2978/made",
+   "versions": [
+    {
+     "from": "1998-01-19",
+     "units": 5,
+     "source_url": "https://www.legislation.gov.uk/uksi/1997/2978/made/data.xml",
+     "sha256": "5d1819fce4f1e9e82aa99566f72eb770ef8c268f99450d3a98c11ca0ba99a7a4"
+    }
+   ]
+  },
+  {
+   "slug": "education-unrecognised-degrees-guernsey-order-19-si-1990-2146",
+   "short": "SI 1990/2146",
+   "title": "The Education (Unrecognised Degrees) (Guernsey) Order 1990 (SI 1990/2146), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1990/2146/made",
+   "versions": [
+    {
+     "from": "1990-12-01",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/1990/2146/made/data.xml",
+     "sha256": "3a3c43b6cfe6ccad33f60a9e6225731a6db40088374be252d995bf756825c9cd"
+    }
+   ]
+  },
+  {
+   "slug": "evidence-proceedings-in-other-jurisdictions-guer-si-1980-1956",
+   "short": "SI 1980/1956",
+   "title": "The Evidence (Proceedings in Other Jurisdictions) (Guernsey) Order 1980 (SI 1980/1956), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1980/1956/made",
+   "versions": [
+    {
+     "from": "1981-01-10",
+     "units": 6,
+     "source_url": "https://www.legislation.gov.uk/uksi/1980/1956/made/data.xml",
+     "sha256": "fd93359057f2b6eb9b2843bb51562713840127fd24d980b2d920965527e94a97"
+    }
+   ]
+  },
+  {
+   "slug": "financial-services-designated-countries-and-terr-si-1988-2148",
+   "short": "SI 1988/2148",
+   "title": "The Financial Services (Designated Countries and Territories) (Overseas Collective Investment Schemes) (Guernsey) Order 1988 (SI 1988/2148), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1988/2148/made",
+   "versions": [
+    {
+     "from": "1988-12-30",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/1988/2148/made/data.xml",
+     "sha256": "f26c5e1c8291ce901a1adf804adc3195d8fcf4f5e47a9cf0f8ed5f3c9fb3ea5d"
+    }
+   ]
+  },
+  {
+   "slug": "fishing-vessels-life-saving-appliances-guernsey-si-1990-2147",
+   "short": "SI 1990/2147",
+   "title": "The Fishing Vessels (Life-Saving Appliances) (Guernsey) Order 1990 (SI 1990/2147), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1990/2147/made",
+   "versions": [
+    {
+     "from": "1990-12-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1990/2147/made/data.xml",
+     "sha256": "5bb2158e16b2ef8403972878ae5f94251029b07692bf14a3debfda94285c30e5"
+    }
+   ]
+  },
+  {
+   "slug": "fishing-vessels-safety-provisions-guernsey-order-si-1990-2148",
+   "short": "SI 1990/2148",
+   "title": "The Fishing Vessels (Safety Provisions) (Guernsey)Order 1990 (SI 1990/2148), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1990/2148/made",
+   "versions": [
+    {
+     "from": "1990-12-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1990/2148/made/data.xml",
+     "sha256": "ca252dc419c06bc9bf30ca7875f8eb75d7bd8d01920cbd746c90cb85d9f141a3"
+    }
+   ]
+  },
+  {
+   "slug": "food-and-environment-protection-act-1985-guernse-si-1987-665",
+   "short": "SI 1987/665",
+   "title": "The Food and Environment Protection Act 1985 (Guernsey) Order 1987 (SI 1987/665), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1987/665/made",
+   "versions": [
+    {
+     "from": "1987-05-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1987/665/made/data.xml",
+     "sha256": "9e87c9792f66da60af0a683f2e1282fe50f3f787e76e9f950db6bdb1d0c46183"
+    }
+   ]
+  },
+  {
+   "slug": "food-and-environment-protection-act-1985-guernse-si-1997-1770",
+   "short": "SI 1997/1770",
+   "title": "The Food and Environment Protection Act 1985 (Guernsey) (Amendment) Order 1997 (SI 1997/1770), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1997/1770/made",
+   "versions": [
+    {
+     "from": "1997-08-22",
+     "units": 7,
+     "source_url": "https://www.legislation.gov.uk/uksi/1997/1770/made/data.xml",
+     "sha256": "eba4e3e5d547f46626e7e970344c650b0545aec389e2699ce6d4be487a005d39"
+    }
+   ]
+  },
+  {
+   "slug": "fraudulent-reception-of-transmissions-guernsey-o-si-1989-2003",
+   "short": "SI 1989/2003",
+   "title": "The Fraudulent Reception of Transmissions (Guernsey) Order 1989 (SI 1989/2003), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1989/2003/made",
+   "versions": [
+    {
+     "from": "1989-12-01",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/1989/2003/made/data.xml",
+     "sha256": "cd41cc396cd62e79cea00f9c4c78a4dafe87e36f7a37eb6bac322c1e529b059e"
+    }
+   ]
+  },
+  {
+   "slug": "friendly-societies-act-1984-guernsey-order-1991-si-1991-2293",
+   "short": "SI 1991/2293",
+   "title": "The Friendly Societies Act 1984 (Guernsey) Order 1991 (SI 1991/2293), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1991/2293/made",
+   "versions": [
+    {
+     "from": "1991-11-16",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/1991/2293/made/data.xml",
+     "sha256": "bdbfd854ef19353187c409a385a7f9f87ad9870a1a40633fe0e671dd6f471eed"
+    }
+   ]
+  },
+  {
+   "slug": "fuel-and-electricity-control-act-1973-guernsey-o-si-1973-2053",
+   "short": "SI 1973/2053",
+   "title": "The Fuel and Electricity (Control) Act 1973 (Guernsey) Order 1973 (SI 1973/2053), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1973/2053/made",
+   "versions": [
+    {
+     "from": "1973-12-07",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1973/2053/made/data.xml",
+     "sha256": "2a9f39e6c48546c4931fa7aad6ed60defd5080f576b9c942551ecb6a76a4870d"
+    }
+   ]
+  },
+  {
+   "slug": "geneva-conventions-act-guernsey-order-1966-si-1966-948",
+   "short": "SI 1966/948",
+   "title": "The Geneva Conventions Act (Guernsey) Order 1966 (SI 1966/948), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1966/948/made",
+   "versions": [
+    {
+     "from": "1966-09-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1966/948/made/data.xml",
+     "sha256": "8828470e328904b522244514927cd78f2792c85e5116b7b654004fa37e62d577"
+    }
+   ]
+  },
+  {
+   "slug": "geneva-conventions-act-guernsey-order-2010-si-2010-2965",
+   "short": "SI 2010/2965",
+   "title": "The Geneva Conventions Act (Guernsey) Order 2010 (SI 2010/2965), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2010/2965/made",
+   "versions": [
+    {
+     "from": "2011-01-15",
+     "units": 8,
+     "source_url": "https://www.legislation.gov.uk/uksi/2010/2965/made/data.xml",
+     "sha256": "83405d9107858084e79ef8153c8f255b4c5a6511fae2865d5483caa6badfd1db"
+    }
+   ]
+  },
+  {
+   "slug": "hijacking-act-1971-guernsey-order-1971-si-1971-1744",
+   "short": "SI 1971/1744",
+   "title": "The Hijacking Act 1971 (Guernsey) Order 1971 (SI 1971/1744), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1971/1744/made",
+   "versions": [
+    {
+     "from": "1971-11-15",
+     "units": 5,
+     "source_url": "https://www.legislation.gov.uk/uksi/1971/1744/made/data.xml",
+     "sha256": "9ed4802f6181c2faac3b9d41583aa65b65c5ee40362b96b3b72156c0b93f37ad"
+    }
+   ]
+  },
+  {
+   "slug": "immigration-and-asylum-act-1999-guernsey-order-2-si-2003-2900",
+   "short": "SI 2003/2900",
+   "title": "The Immigration and Asylum Act 1999 (Guernsey)Order 2003 (SI 2003/2900), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2003/2900/made",
+   "versions": [
+    {
+     "from": "2003-12-11",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/2003/2900/made/data.xml",
+     "sha256": "084cae7fa75d360e331387037c6989dd7349ff1aa147cfd750af0e0ec421da15"
+    }
+   ]
+  },
+  {
+   "slug": "immigration-guernsey-order-1993-si-1993-1796",
+   "short": "SI 1993/1796",
+   "title": "The Immigration (Guernsey) Order 1993 (SI 1993/1796), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1993/1796/made",
+   "versions": [
+    {
+     "from": "1993-08-01",
+     "units": 6,
+     "source_url": "https://www.legislation.gov.uk/uksi/1993/1796/made/data.xml",
+     "sha256": "75af4a45d39fb6121ad51e3558f3f796b0fbc2aa010488e42d738f2949405e96"
+    }
+   ]
+  },
+  {
+   "slug": "immigration-guernsey-variation-order-1989-si-1989-676",
+   "short": "SI 1989/676",
+   "title": "The Immigration (Guernsey) (Variation) Order 1989 (SI 1989/676), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1989/676/made",
+   "versions": [
+    {
+     "from": "1989-05-18",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/1989/676/made/data.xml",
+     "sha256": "7dd233d07ed5d2fcfb026927ee943a83078d1b1e40ec3a0eae5225508973fe69"
+    }
+   ]
+  },
+  {
+   "slug": "insolvency-act-1986-guernsey-order-1989-si-1989-2409",
+   "short": "SI 1989/2409",
+   "title": "The Insolvency Act 1986 (Guernsey) Order 1989 (SI 1989/2409), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1989/2409/made",
+   "versions": [
+    {
+     "from": "1990-02-01",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/1989/2409/made/data.xml",
+     "sha256": "6bd59c3f790fd898945fdba20094e404fad16a0ebae2c033a46b884c3c4c8c66"
+    }
+   ]
+  },
+  {
+   "slug": "internationally-protected-persons-act-1978-guern-si-1979-573",
+   "short": "SI 1979/573",
+   "title": "The Internationally Protected Persons Act 1978 (Guernsey) Order 1979 (SI 1979/573), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1979/573/made",
+   "versions": [
+    {
+     "from": "1979-05-24",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1979/573/made/data.xml",
+     "sha256": "cdceca781e96b0d376fc942fe53ad8dd3afbcd65ec168a4ad9ef7534f0ba5cdd"
+    }
+   ]
+  },
+  {
+   "slug": "iraq-united-nations-sequestration-of-assets-guer-si-1993-1798",
+   "short": "SI 1993/1798",
+   "title": "The Iraq (United Nations) (Sequestration of Assets) (Guernsey) Order 1993 (SI 1993/1798), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1993/1798/made",
+   "versions": [
+    {
+     "from": "1993-07-30",
+     "units": 24,
+     "source_url": "https://www.legislation.gov.uk/uksi/1993/1798/made/data.xml",
+     "sha256": "24a51c5df21c4ffd9839f34ca968e9f6904d0b9d135b24a1f80202c81578fd69"
+    }
+   ]
+  },
+  {
+   "slug": "landmines-act-1998-guernsey-order-2000-si-2000-2769",
+   "short": "SI 2000/2769",
+   "title": "The Landmines Act 1998 (Guernsey) Order 2000 (SI 2000/2769), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2000/2769/made",
+   "versions": [
+    {
+     "from": "2000-11-11",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/2000/2769/made/data.xml",
+     "sha256": "b2a4d88b4f151c4c7a09da4af2dc778f2025da79616da5ce546c8c3b915c97e1"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-act-1965-guernsey-order-1988-si-1988-1850",
+   "short": "SI 1988/1850",
+   "title": "The Merchant Shipping Act 1965 (Guernsey) Order 1988 (SI 1988/1850), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1988/1850/made",
+   "versions": [
+    {
+     "from": "1989-01-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1988/1850/made/data.xml",
+     "sha256": "64c7187c80661548d1eef79a0dba9bdd48bb372292f3d832acc4c93fb9523c08"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-act-1970-guernsey-order-1981-si-1981-1809",
+   "short": "SI 1981/1809",
+   "title": "The Merchant Shipping Act 1970 (Guernsey) Order 1981 (SI 1981/1809), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1981/1809/made",
+   "versions": [
+    {
+     "from": "1982-02-02",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1981/1809/made/data.xml",
+     "sha256": "ec4715cb28ade70573c66049164c1ae67b9ee05cfee8e89865da82ab04b7c3e6"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-act-1979-guernsey-order-1980-si-1980-569",
+   "short": "SI 1980/569",
+   "title": "The Merchant Shipping Act 1979 (Guernsey) Order 1980 (SI 1980/569), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1980/569/made",
+   "versions": [
+    {
+     "from": "1980-05-22",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1980/569/made/data.xml",
+     "sha256": "19df65d6d30f5657a42cf26f4f5d8d58bee59a699b177e808a9ab703c3c71db1"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-act-1979-guernsey-order-1981-si-1981-1810",
+   "short": "SI 1981/1810",
+   "title": "The Merchant Shipping Act 1979 (Guernsey) Order 1981 (SI 1981/1810), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1981/1810/made",
+   "versions": [
+    {
+     "from": "1982-02-02",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1981/1810/made/data.xml",
+     "sha256": "df2e1ffdebdc259c016b81f997c16ebf44ce630f6188b74a7f91cb3f224bc70d"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-act-1979-guernsey-order-1988-si-1988-1851",
+   "short": "SI 1988/1851",
+   "title": "The Merchant Shipping Act 1979 (Guernsey) Order 1988 (SI 1988/1851), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1988/1851/made",
+   "versions": [
+    {
+     "from": "1989-01-01",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/1988/1851/made/data.xml",
+     "sha256": "9978b4a08551cee3242f99cb132491f1950d8752436e0f85b605b4a1ffd2abac"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-act-1988-guernsey-order-1991-si-1991-2875",
+   "short": "SI 1991/2875",
+   "title": "The Merchant Shipping Act 1988 (Guernsey) Order 1991 (SI 1991/2875), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1991/2875/made",
+   "versions": [
+    {
+     "from": "1992-02-01",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/1991/2875/made/data.xml",
+     "sha256": "87e5eb83e81a13bd3e6e3e90e9b10e6fabe28e1539bcbaaf173b0ee892ec2630"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-certification-of-deck-officers-si-1988-1991",
+   "short": "SI 1988/1991",
+   "title": "The Merchant Shipping (Certification of Deck Officers and Marine Engineer Officers) (Guernsey) Order 1988 (SI 1988/1991), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1988/1991/made",
+   "versions": [
+    {
+     "from": "1989-01-01",
+     "units": 6,
+     "source_url": "https://www.legislation.gov.uk/uksi/1988/1991/made/data.xml",
+     "sha256": "96a3fea66c0762321c772d56d2925e62b65c331559903e03a238b773605d0af4"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-distress-signals-and-preventio-si-1986-1163",
+   "short": "SI 1986/1163",
+   "title": "The Merchant Shipping (Distress Signals and Prevention of Collisions) (Guernsey) Order 1986 (SI 1986/1163), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1986/1163/made",
+   "versions": [
+    {
+     "from": "1986-10-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1986/1163/made/data.xml",
+     "sha256": "c6beb74b668ad5f85b83a5e90c2c6fae12beb438c7fda92f3ec562a6f259fd5c"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-distress-signals-and-preventio-si-1989-2410",
+   "short": "SI 1989/2410",
+   "title": "The Merchant Shipping (Distress Signals and Prevention of Collisions) (Guernsey) Order 1989 (SI 1989/2410), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1989/2410/made",
+   "versions": [
+    {
+     "from": "1990-02-01",
+     "units": 5,
+     "source_url": "https://www.legislation.gov.uk/uksi/1989/2410/made/data.xml",
+     "sha256": "3c72fd3e31dc6458cce505afe2a35375122cbc138b18ef6743592a915d3506c5"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-distress-signals-and-preventio-si-1991-763",
+   "short": "SI 1991/763",
+   "title": "The Merchant Shipping (Distress Signals and Prevention of Collisions) (Guernsey) (Amendment) Order 1991 (SI 1991/763), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1991/763/made",
+   "versions": [
+    {
+     "from": "1991-04-19",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/1991/763/made/data.xml",
+     "sha256": "c8f5df5b5849e65406d6f7630efeb1944e075f6284c55175a58a0d97ec0dcdb3"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-oil-pollution-and-general-prov-si-1998-260",
+   "short": "SI 1998/260",
+   "title": "The Merchant Shipping (Oil Pollution and General Provisions) (Guernsey) Order 1998 (SI 1998/260), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1998/260/made",
+   "versions": [
+    {
+     "from": "1998-03-11",
+     "units": 9,
+     "source_url": "https://www.legislation.gov.uk/uksi/1998/260/made/data.xml",
+     "sha256": "4ee4b26c461aec6721bcd09ffe3f5dd6dfdab914de3bcd31122fe9b5c0f12124"
+    }
+   ]
+  },
+  {
+   "slug": "merchant-shipping-safety-convention-guernsey-ord-si-1990-2150",
+   "short": "SI 1990/2150",
+   "title": "The Merchant Shipping (Safety Convention) (Guernsey) Order 1990 (SI 1990/2150), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1990/2150/made",
+   "versions": [
+    {
+     "from": "1990-12-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1990/2150/made/data.xml",
+     "sha256": "ace0490d57574c867e69101b0900391861d509e2f937de5e434313e9907138f5"
+    }
+   ]
+  },
+  {
+   "slug": "naval-discipline-act-1957-bailiwick-of-guernsey-si-1996-726",
+   "short": "SI 1996/726",
+   "title": "The Naval Discipline Act 1957 (Bailiwick of Guernsey) Order 1996 (SI 1996/726), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1996/726/made",
+   "versions": [
+    {
+     "from": "1996-06-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1996/726/made/data.xml",
+     "sha256": "5e36b069d30e7d13f7ca6964f2a6d7764c996fa3c0fa822b4068c294b3007b62"
+    }
+   ]
+  },
+  {
+   "slug": "northern-ireland-emergency-provisions-act-1991-g-si-1994-764",
+   "short": "SI 1994/764",
+   "title": "The Northern Ireland (Emergency Provisions) Act 1991 (Guernsey) Order 1994 (SI 1994/764), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1994/764/made",
+   "versions": [
+    {
+     "from": "1994-04-15",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/1994/764/made/data.xml",
+     "sha256": "cc88d0bb05ab65f135d1244b86dd5c4d00dade6502070046949447c2cab7ec9d"
+    }
+   ]
+  },
+  {
+   "slug": "nuclear-installations-guernsey-order-1978-si-1978-1528",
+   "short": "SI 1978/1528",
+   "title": "The Nuclear Installations (Guernsey) Order 1978 (SI 1978/1528), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1978/1528/made",
+   "versions": [
+    {
+     "from": "1978-10-25",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1978/1528/made/data.xml",
+     "sha256": "27400ee3260702d00e3dce25956dec9682cf2c74a52a77ae74d295d7a5050655"
+    }
+   ]
+  },
+  {
+   "slug": "nuclear-installations-guernsey-variation-order-1-si-1985-1640",
+   "short": "SI 1985/1640",
+   "title": "The Nuclear Installations (Guernsey) (Variation) Order 1985 (SI 1985/1640), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1985/1640/made",
+   "versions": [
+    {
+     "from": "1985-11-21",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/1985/1640/made/data.xml",
+     "sha256": "09d7ee93c63e846351b263df8d4aa418ae9d2b93a494b9952b8bb5edb3025fa1"
+    }
+   ]
+  },
+  {
+   "slug": "nuclear-material-offences-act-1983-guernsey-orde-si-1991-1717",
+   "short": "SI 1991/1717",
+   "title": "The Nuclear Material (Offences) Act 1983 (Guernsey) Order 1991 (SI 1991/1717), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1991/1717/made",
+   "versions": [
+    {
+     "from": "1991-10-02",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/1991/1717/made/data.xml",
+     "sha256": "5718a07b8ac367f46d1959c2f467ee787d6ae2b2437a5ae9abedf55b117c3efa"
+    }
+   ]
+  },
+  {
+   "slug": "nuclear-safeguards-guernsey-order-2004-si-2004-1290",
+   "short": "SI 2004/1290",
+   "title": "The Nuclear Safeguards (Guernsey) Order 2004 (SI 2004/1290), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2004/1290/made",
+   "versions": [
+    {
+     "from": "2004-05-07",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/2004/1290/made/data.xml",
+     "sha256": "b82860c8296f9d29813270fb26054c733fd4fa4a3711d1e20ececc84dbb29e50"
+    }
+   ]
+  },
+  {
+   "slug": "oaths-and-evidence-guernsey-order-1966-si-1966-1019",
+   "short": "SI 1966/1019",
+   "title": "The Oaths and Evidence (Guernsey) Order 1966 (SI 1966/1019), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1966/1019/made",
+   "versions": [
+    {
+     "from": "1966-09-01",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/1966/1019/made/data.xml",
+     "sha256": "4303a56d40ebc6429688cefe2fb4ef49f6cc88282be3ddc70c324cf1c8de4cc2"
+    }
+   ]
+  },
+  {
+   "slug": "oil-in-navigable-waters-guernsey-order-1966-si-1966-393",
+   "short": "SI 1966/393",
+   "title": "The Oil in Navigable Waters (Guernsey) Order 1966 (SI 1966/393), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1966/393/made",
+   "versions": [
+    {
+     "from": "1966-04-18",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/1966/393/made/data.xml",
+     "sha256": "1460a2e64003ac90b15111b7aaded000087727d0b8274cd4771ac64faafc4737"
+    }
+   ]
+  },
+  {
+   "slug": "outer-space-act-1986-guernsey-order-1990-si-1990-248",
+   "short": "SI 1990/248",
+   "title": "The Outer Space Act 1986 (Guernsey) Order 1990 (SI 1990/248), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1990/248/made",
+   "versions": [
+    {
+     "from": "1990-03-14",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1990/248/made/data.xml",
+     "sha256": "f2b836c0a2c697d9e0fc6333631851443a60f2566545f1bc4ceb2581b72fc391"
+    }
+   ]
+  },
+  {
+   "slug": "police-act-1997-criminal-records-and-registratio-si-2011-718",
+   "short": "SI 2011/718",
+   "title": "The Police Act 1997 (Criminal Records and Registration) (Guernsey) (Amendment) Regulations 2011 (SI 2011/718), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2011/718/made",
+   "versions": [
+    {
+     "from": "2011-04-06",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/2011/718/made/data.xml",
+     "sha256": "560231787f04f00424dbfd2cf21055db61feadd4465b5eb3e6a501e7e90241e3"
+    }
+   ]
+  },
+  {
+   "slug": "police-act-1997-criminal-records-and-registratio-si-2012-2107",
+   "short": "SI 2012/2107",
+   "title": "The Police Act 1997 (Criminal Records and Registration) (Guernsey) (Amendment) Regulations 2012 (SI 2012/2107), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2012/2107/made",
+   "versions": [
+    {
+     "from": "2012-09-10",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/2012/2107/made/data.xml",
+     "sha256": "34fb487cc7cf5f24c80a1296661298dd57c37f6f007cf2aa7ea4f613d9a4fd68"
+    }
+   ]
+  },
+  {
+   "slug": "police-act-1997-criminal-records-and-registratio-si-2012-2666",
+   "short": "SI 2012/2666",
+   "title": "The Police Act 1997 (Criminal Records and Registration) (Guernsey) (Amendment No. 2) Regulations 2012 (SI 2012/2666), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2012/2666/made",
+   "versions": [
+    {
+     "from": "2012-11-19",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/2012/2666/made/data.xml",
+     "sha256": "6e8374e47ddc7a5a3f8beb842bd09f81a947079effc528f00c009368cc498564"
+    }
+   ]
+  },
+  {
+   "slug": "police-act-1997-criminal-records-and-registratio-si-2019-1275",
+   "short": "SI 2019/1275",
+   "title": "The Police Act 1997 (Criminal Records and Registration) (Guernsey) (Amendment) Regulations 2019 (SI 2019/1275), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2019/1275/made",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/2019/1275/made/data.xml",
+     "sha256": "75fdbeb6ce5647b07d75fc3b805e66864570fd763ec7e6bbdf5299fe8c361ccc"
+    }
+   ]
+  },
+  {
+   "slug": "police-act-1997-criminal-records-and-registratio-si-2022-289",
+   "short": "SI 2022/289",
+   "title": "The Police Act 1997 (Criminal Records and Registration) (Guernsey) (Amendment) Regulations 2022 (SI 2022/289), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2022/289/made",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/2022/289/made/data.xml",
+     "sha256": "4bcc195af3ed4ec7260fef34505609da2ecddc1f491a4594061315e64a561915"
+    }
+   ]
+  },
+  {
+   "slug": "police-act-1997-criminal-records-and-registratio-si-2024-1112",
+   "short": "SI 2024/1112",
+   "title": "The Police Act 1997 (Criminal Records and Registration) (Guernsey) (Amendment) Regulations 2024 (SI 2024/1112), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2024/1112/made",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 5,
+     "source_url": "https://www.legislation.gov.uk/uksi/2024/1112/made/data.xml",
+     "sha256": "2fcaaf2818ac7af06dbb8b2230e1d2d78a09b668d5892c0530b67d10530379fd"
+    }
+   ]
+  },
+  {
+   "slug": "police-act-1997-criminal-records-guernsey-amendm-si-2010-2700",
+   "short": "SI 2010/2700",
+   "title": "The Police Act 1997 (Criminal Records) (Guernsey) (Amendment) Regulations 2010 (SI 2010/2700), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2010/2700/made",
+   "versions": [
+    {
+     "from": "2010-12-06",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/2010/2700/made/data.xml",
+     "sha256": "6f6a309401f215439aea0d093c584a074ea5aecf8c50f44efe02a46818fa2a18"
+    }
+   ]
+  },
+  {
+   "slug": "prevention-of-terrorism-temporary-provisions-act-si-1990-2296",
+   "short": "SI 1990/2296",
+   "title": "The Prevention of Terrorism (Temporary Provisions) Act 1984 (Guernsey) (Revocation) Order 1990 (SI 1990/2296), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1990/2296/made",
+   "versions": [
+    {
+     "from": "1991-01-01",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/1990/2296/made/data.xml",
+     "sha256": "e9355e77dd7151edc9b625f6108f2fae598e00abd3ab56d379f5c527a9d37a89"
+    }
+   ]
+  },
+  {
+   "slug": "protection-of-military-remains-act-1986-guernsey-si-1987-1281",
+   "short": "SI 1987/1281",
+   "title": "The Protection of Military Remains Act 1986 (Guernsey) Order 1987 (SI 1987/1281), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1987/1281/made",
+   "versions": [
+    {
+     "from": "1987-08-21",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/1987/1281/made/data.xml",
+     "sha256": "4f2d30d411fdbb734232b9cfc4bfc6b3b8206f9bc685d9d3bf93e572923e0ea2"
+    }
+   ]
+  },
+  {
+   "slug": "protection-of-trading-interests-act-1980-guernse-si-1983-1703",
+   "short": "SI 1983/1703",
+   "title": "The Protection of Trading Interests Act 1980 (Guernsey) Order 1983 (SI 1983/1703), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1983/1703/made",
+   "versions": [
+    {
+     "from": "1984-01-01",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1983/1703/made/data.xml",
+     "sha256": "6a5a089161034464d3be7e3b7d3bacb2704775485c3ae69f6d84ee162075a6e8"
+    }
+   ]
+  },
+  {
+   "slug": "public-telecommunication-system-designation-guer-si-1999-3334",
+   "short": "SI 1999/3334",
+   "title": "The Public Telecommunication System Designation (Guernsey Telecoms) Order 1999 (SI 1999/3334), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1999/3334/made",
+   "versions": [
+    {
+     "from": "2000-01-13",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/1999/3334/made/data.xml",
+     "sha256": "ff33492f918753acf65dcc0cffee8caa4ca7a1c4fc3f4bdfb691137a92a31250"
+    }
+   ]
+  },
+  {
+   "slug": "reciprocal-enforcement-of-foreign-judgments-guer-si-1973-610",
+   "short": "SI 1973/610",
+   "title": "The Reciprocal Enforcement of Foreign Judgments (Guernsey) Order 1973 (SI 1973/610), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1973/610/made",
+   "versions": [
+    {
+     "from": "1973-05-01",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/1973/610/made/data.xml",
+     "sha256": "bd73f54448135ee07a4efc48ecfec01afd041ede96d0c3cad2151bcf82453137"
+    }
+   ]
+  },
+  {
+   "slug": "social-security-jersey-and-guernsey-order-1992-si-1992-1735",
+   "short": "SI 1992/1735",
+   "title": "The Social Security (Jersey and Guernsey) Order 1992 (SI 1992/1735), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1992/1735/made",
+   "versions": [
+    {
+     "from": "1992-07-27",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/1992/1735/made/data.xml",
+     "sha256": "267b6f6a5f4144ce8d84b8244ff6d2bd115c5a9ee467bd521aa8fbe525d04714"
+    }
+   ]
+  },
+  {
+   "slug": "social-security-jersey-and-guernsey-order-1994-si-1994-2802",
+   "short": "SI 1994/2802",
+   "title": "The Social Security (Jersey and Guernsey) Order 1994 (SI 1994/2802), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1994/2802/made",
+   "versions": [
+    {
+     "from": "1994-11-02",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1994/2802/made/data.xml",
+     "sha256": "fed2ee32671b5a0a9ca2e1f99adef133fb130c2046fcee6910ac735504a7aeb9"
+    }
+   ]
+  },
+  {
+   "slug": "state-immunity-guernsey-order-1980-si-1980-871",
+   "short": "SI 1980/871",
+   "title": "The State Immunity (Guernsey) Order 1980 (SI 1980/871), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1980/871/made",
+   "versions": [
+    {
+     "from": "1980-07-21",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1980/871/made/data.xml",
+     "sha256": "6246a7b97e06e7dc2a7877ea1bc82fda71f14d492eea5e820513e5f5b11cdf15"
+    }
+   ]
+  },
+  {
+   "slug": "suppression-of-terrorism-act-1978-guernsey-order-si-1978-1529",
+   "short": "SI 1978/1529",
+   "title": "The Suppression of Terrorism Act 1978 (Guernsey) Order 1978 (SI 1978/1529), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1978/1529/made",
+   "versions": [
+    {
+     "from": "1978-10-25",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1978/1529/made/data.xml",
+     "sha256": "6a554d401805aac12affcc168fab9fdad9256046f73225ba4d24062bd80efc2e"
+    }
+   ]
+  },
+  {
+   "slug": "taking-of-hostages-guernsey-order-1982-si-1982-1539",
+   "short": "SI 1982/1539",
+   "title": "The Taking of Hostages (Guernsey) Order 1982 (SI 1982/1539), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1982/1539/made",
+   "versions": [
+    {
+     "from": "1982-11-26",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1982/1539/made/data.xml",
+     "sha256": "1fd0669626cb17c37cd12a665e8b9e37324bdee0326ebbd07483079bfcf6bd72"
+    }
+   ]
+  },
+  {
+   "slug": "territorial-sea-act-1987-guernsey-order-2019-si-2019-1108",
+   "short": "SI 2019/1108",
+   "title": "The Territorial Sea Act 1987 (Guernsey) Order 2019 (SI 2019/1108), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2019/1108/made",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/2019/1108/made/data.xml",
+     "sha256": "1d166d3df79f97f664dd11559f34f5a6c7f82f4e3537d8caea5a49a0a3ae8907"
+    }
+   ]
+  },
+  {
+   "slug": "united-nations-international-tribunals-former-yu-si-1997-281",
+   "short": "SI 1997/281",
+   "title": "The United Nations (International Tribunals) (Former Yugoslavia and Rwanda) (Guernsey) Order 1997 (SI 1997/281), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1997/281/made",
+   "versions": [
+    {
+     "from": "1997-03-12",
+     "units": 26,
+     "source_url": "https://www.legislation.gov.uk/uksi/1997/281/made/data.xml",
+     "sha256": "a89e988b36369b9e9a98667cc99b86b1df06976c2a7775ac163f8e1cf6018cb0"
+    }
+   ]
+  },
+  {
+   "slug": "united-reformed-church-act-1981-guernsey-order-1-si-1987-2051",
+   "short": "SI 1987/2051",
+   "title": "The United Reformed Church Act 1981 (Guernsey) Order 1987 (SI 1987/2051), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1987/2051/made",
+   "versions": [
+    {
+     "from": "1987-12-26",
+     "units": 4,
+     "source_url": "https://www.legislation.gov.uk/uksi/1987/2051/made/data.xml",
+     "sha256": "3b578283d85cb60bd63abcac6db60a02f081cb3fcbda4ec5163097cf569319cf"
+    }
+   ]
+  },
+  {
+   "slug": "weights-and-measures-guernsey-and-alderney-order-si-1995-1011",
+   "short": "SI 1995/1011",
+   "title": "The Weights and Measures (Guernsey and Alderney) Order 1995 (SI 1995/1011), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1995/1011/made",
+   "versions": [
+    {
+     "from": "1995-06-01",
+     "units": 3,
+     "source_url": "https://www.legislation.gov.uk/uksi/1995/1011/made/data.xml",
+     "sha256": "9dc77fb5a40757ca913cc6d9ff3ff7dfb3aadac169b0c0edc887f05a209ae65a"
+    }
+   ]
+  },
+  {
+   "slug": "wireless-telegraphy-guernsey-order-1994-si-1994-1064",
+   "short": "SI 1994/1064",
+   "title": "The Wireless Telegraphy (Guernsey) Order 1994 (SI 1994/1064), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1994/1064/made",
+   "versions": [
+    {
+     "from": "1994-06-01",
+     "units": 5,
+     "source_url": "https://www.legislation.gov.uk/uksi/1994/1064/made/data.xml",
+     "sha256": "61c2c61cf9e992a3ad511b6e0a44a5ba7c89d308aa1836ec297841db7f4967b7"
+    }
+   ]
+  },
+  {
+   "slug": "wireless-telegraphy-guernsey-order-1998-si-1998-1511",
+   "short": "SI 1998/1511",
+   "title": "The Wireless Telegraphy (Guernsey) Order 1998 (SI 1998/1511), as made",
+   "url": "https://www.legislation.gov.uk/uksi/1998/1511/made",
+   "versions": [
+    {
+     "from": "1998-07-24",
+     "units": 2,
+     "source_url": "https://www.legislation.gov.uk/uksi/1998/1511/made/data.xml",
+     "sha256": "9e4997fb4f8c95bda7b12408eae070a355601f1d9b8010d359002579598dd3e7"
+    }
+   ]
+  },
+  {
+   "slug": "wireless-telegraphy-guernsey-order-2006-si-2006-3325",
+   "short": "SI 2006/3325",
+   "title": "The Wireless Telegraphy (Guernsey) Order 2006 (SI 2006/3325), as made",
+   "url": "https://www.legislation.gov.uk/uksi/2006/3325/made",
+   "versions": [
+    {
+     "from": "2007-02-08",
+     "units": 6,
+     "source_url": "https://www.legislation.gov.uk/uksi/2006/3325/made/data.xml",
+     "sha256": "80080cbd9584750d058d23cc933721861dd81d32d2d00fdb868fbacde3a8b71f"
+    }
+   ]
+  },
+  {
+   "slug": "legal-system",
+   "short": "Legal system",
+   "title": "Guernsey: legal system, from Wikidata (facts only)",
+   "url": "https://www.wikidata.org/wiki/Q25230",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 11,
+     "source_url": "https://www.wikidata.org/wiki/Special:EntityData/Q25230.json",
+     "sha256": "7e98818bf9d4b9f63632503efbdaa0447d3d8107bda1235f9fe0fea625cf287b"
+    }
+   ]
+  }
+ ]
+}
