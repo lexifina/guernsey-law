@@ -59,6 +59,7 @@ Each text is credited to its statutory instrument (`SI 2019/1108`), with an e-ma
 - `tools/build.py` writes the history from one corpus file, whose hash is in `data/corpus.sha256`; the same corpus gives the same commit hashes. No second build has been compared yet.
 - Every commit's trailers parse, and `main` has no merge commits.
 - History is append-only: later changes are appended, never forced.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -80,6 +81,10 @@ Each text is credited to its statutory instrument (`SI 2019/1108`), with an e-ma
 See [`LICENSE`](LICENSE). The instruments are Crown copyright, reused from legislation.gov.uk under the Open Government Licence v3.0; the facts in `legal-system/` are from Wikidata (CC0 1.0). Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are CC0 1.0.
 
 No AI model wrote, translated or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
