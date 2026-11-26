@@ -5,11 +5,11 @@
 <img alt="Guernsey law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
-UK legislation for the Bailiwick of Guernsey as a git history: one file per article or schedule, one commit per instrument on the day it came into force, and the instrument as the commit's author. `git blame` names the instrument behind every line; `git log` lists every change to an article; picking a date gives what had come into force by that day, as made.
+Law of the Bailiwick of Guernsey as a git history: the States' own Laws and Ordinances as laid before them (one file each), and UK legislation for the Bailiwick, with one file per article or schedule, one commit per instrument on the day it came into force, and the instrument as the commit's author. `git blame` names the instrument behind every line; `git log` lists every change to an article; picking a date gives what had come into force by that day, as made.
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Guernsey's national law, which global-law reads at `guernsey/national/acts/`.
 
-**What is in it now:** 107 UK Orders in Council and regulations about Guernsey, each in full as made (Orders extending UK Acts to the Bailiwick, such as the Geneva Conventions Act, the Territorial Sea Act 1987 and the Civil Aviation Act 1982, and other UK instruments about Guernsey); a catalogue of the 182 UK statutory instruments with "Guernsey" in their title, made from 1949 to 2026 (number, title, day made and link, facts only); and a snapshot of Guernsey's legal system from Wikidata. It holds no Guernsey Law or Ordinance (see below). [`REPRODUCE.md`](REPRODUCE.md) lists every act with its versions and span.
+**What is in it now:** 366 of Guernsey's own Laws, Ordinances and other instruments as laid before the States of Deliberation (121 Laws, 245 Ordinances, 0 other; 2006 to 2026), each the text put to the States, from the Billets d'Ã‰tat on parliament.gg (`billets-d-etat/`); 99 older Laws and Ordinances as FAOLEX holds them, mostly consolidated (`laws/`, `ordinances/`, `statutory-instruments/`; secondary copies); 107 UK Orders in Council and regulations about Guernsey, each in full as made; a catalogue of the 182 UK statutory instruments with "Guernsey" in their title (1949 to 2026); and a snapshot of Guernsey's legal system from Wikidata. [`REPRODUCE.md`](REPRODUCE.md) lists the sources.
 
 Each instrument has its own folder, named from its title and SI number, with one file per article or schedule (`territorial-sea-act-1987-guernsey-order-2019-si-2019-1108/art-002.md` is Article 2 of the Territorial Sea Act 1987 (Guernsey) Order 2019, SI 2019/1108); the catalogue has one file per instrument (`catalogue/si-2019-01108.md`).
 
@@ -49,6 +49,7 @@ Each commit is dated at noon, Europe/Guernsey, on the day the version took effec
 
 - for each instrument given in full, the single coming-into-force date it states (SI 2019/1108: 23 July 2019); instruments that are revoked, or come into force on another event such as registration by the Royal Court of Guernsey, are catalogued but not given as text;
 - for the catalogue, the day each instrument was made, as legislation.gov.uk records it: one commit per day, 151 in all;
+- for the Billets d'Ã‰tat records, the fixed day the text says it comes into force on when it gives one, otherwise the day of the States meeting it was laid before (`Date-basis: states-meeting`, which is not a day it came into force); for FAOLEX copies, the date of consolidation, entry into force or text that FAOLEX records (`Date-basis`);
 - git cannot store dates before 1970, so the 43 earlier commits are dated from 1970-01-01, one second apart, with the real day in `In-force:`. Ask for a date with `tools/on.py`, not `git log --before`.
 
 Each text is credited to its statutory instrument (`SI 2019/1108`), with an e-mail address that cannot exist; each catalogue day to a key for that day (`Catalogue 2026-09-07`); the catalogue's first day (1949-08-22) and the legal-system snapshot to the publisher, as the oldest version available. The committer is always Lexifina.
@@ -63,7 +64,7 @@ Each text is credited to its statutory instrument (`SI 2019/1108`), with an e-ma
 
 ## What it does not show
 
-- **Guernsey's own legislation.** No Law, Ordinance or statutory instrument made in the Bailiwick: Guernsey Legal Resources publishes them on terms that do not allow reuse, and the Copyright (Bailiwick of Guernsey) Ordinance, 2005 has no clear exemption for legislation.
+- **Guernsey's legislation as registered, and its consolidations.** Guernsey Legal Resources, the official publisher, answers automated readers with a Cloudflare challenge, so nothing is read from it. The Billets d'Ã‰tat give each Law and Ordinance as laid before the States, before Royal Sanction or registration; Laws before 2006 and most statutory instruments are only here where FAOLEX holds a copy.
 - **Amendments and revocations.** Each instrument is as made, so an Order here may since have been amended or revoked.
 - **UK law that does not name Guernsey.** The catalogue lists only instruments with "Guernsey" in their title; UK Acts and instruments that extend to Guernsey without naming it are not listed.
 - **75 of the 182 catalogued instruments as text**: those revoked or coming into force on an event rather than a stated date.
@@ -75,10 +76,12 @@ Each text is credited to its statutory instrument (`SI 2019/1108`), with an e-ma
 | --- | --- | --- | --- |
 | [legislation.gov.uk](https://www.legislation.gov.uk/uksi) (The National Archives) | UK statutory instruments | no, each as made | Read from the publisher's XML on 30 October 2026 |
 | [Wikidata](https://www.wikidata.org/wiki/Q25230) | Open facts | one snapshot, 30 October 2026 | `legal-system/` only |
+| [parliament.gg](https://parliament.gg/parliamentary-business/billets) (States of Guernsey) | Laws (Projets de Loi), Ordinances and other instruments as laid before the States of Deliberation, from the Billets d'Ã‰tat and legislation propositions | no, each as laid | PDF text layer, read through the site's public content API in November 2026 |
+| [FAOLEX](https://faolex.fao.org) (FAO) | Secondary copies of Guernsey Laws and Ordinances, mostly consolidated | one copy each, dated as FAOLEX records | PDF text layer; `Source-status: secondary copy` |
 
 ## Licence
 
-See [`LICENSE`](LICENSE). The instruments are Crown copyright, reused from legislation.gov.uk under the Open Government Licence v3.0; the facts in `legal-system/` are from Wikidata (CC0 1.0). Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are CC0 1.0.
+See [`LICENSE`](LICENSE). The instruments are Crown copyright, reused from legislation.gov.uk under the Open Government Licence v3.0; the facts in `legal-system/` are from Wikidata (CC0 1.0); the Billets d'Ã‰tat texts are States of Guernsey copyright, reproduced from parliament.gg accurately and with their source, as its terms ask; the FAOLEX copies are reused for a non-commercial purpose with acknowledgement of FAO. Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are CC0 1.0.
 
 No AI model wrote, translated or changed legal text; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
