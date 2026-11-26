@@ -8,6 +8,8 @@ This file is written by the build on 2026-10-30, the day the source data was ret
 | --- | --- | --- | --- |
 | legislation.gov.uk (The National Archives) | <https://www.legislation.gov.uk/uksi> | 2026-10-30 | Open Government Licence v3.0 |
 | Wikidata | <https://www.wikidata.org/wiki/Q25230> | 2026-10-30 | CC0 1.0 |
+| parliament.gg (States of Guernsey), Billets d'Ã‰tat and legislation propositions | <https://parliament.gg/parliamentary-business/billets> (content API `https://juh7pzpd.apicdn.sanity.io/v2021-10-21/data/query/production`) | 2026-11-26 | States of Guernsey copyright: "may be reproduced free of charge in any format or medium for research, private study or for internal circulation within an organisation", accurately and with the source and copyright status acknowledged (terms of 23 June 2025) |
+| FAOLEX (FAO), secondary copies | <https://faolex.fao.org> | 2026-11-26 | FAO copyright; non-commercial reuse with acknowledgement |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -161,7 +163,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Guernsey's own Laws and Ordinances are not included: the Bailiwick's copyright law has no clear exemption for legislation, and the official text is not available for reuse.
+- Guernsey's own Laws and Ordinances are taken from the Billets d'Ã‰tat on parliament.gg (2026-11-26, Lexifina's decision under its rule for sources whose terms only limit the purpose of reuse): each text as laid before the States, one file per instrument in `billets-d-etat/<year>/<billet>/`, the PDF's own text layer with page numbers dropped. Older Laws and Ordinances come from FAOLEX as secondary copies, tagged `Source-status: secondary copy`. Guernsey Legal Resources (Cloudflare challenge) and Wayback copies of it are not used.
 - The catalogue lists every UK statutory instrument legislation.gov.uk returns for "Guernsey" in its title; each is dated by the day it was made and credited to a catalogue key for that day.
 - Full text is given only for instruments, not revoked, that state a single coming-into-force date; those coming into force on registration by the Royal Court or on another event are catalogued only.
 - Each text is the instrument as made, dated by its coming-into-force date; later amendments are not applied. Footnotes and explanatory notes are left out; curly quotes are written as straight quotes.
