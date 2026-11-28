@@ -10,6 +10,7 @@ This file is written by the build on 2026-10-30, the day the source data was ret
 | Wikidata | <https://www.wikidata.org/wiki/Q25230> | 2026-10-30 | CC0 1.0 |
 | parliament.gg (States of Guernsey), Billets d'Ã‰tat and legislation propositions | <https://parliament.gg/parliamentary-business/billets> (content API `https://juh7pzpd.apicdn.sanity.io/v2021-10-21/data/query/production`) | 2026-11-26 | States of Guernsey copyright: "may be reproduced free of charge in any format or medium for research, private study or for internal circulation within an organisation", accurately and with the source and copyright status acknowledged (terms of 23 June 2025) |
 | FAOLEX (FAO), secondary copies | <https://faolex.fao.org> | 2026-11-26 | FAO copyright; non-commercial reuse with acknowledgement |
+| Chief Pleas of Sark, sarkgov.co.uk | <https://sarkgov.co.uk/chief-pleas>, <https://sarkgov.co.uk/information> | 2026-11-28 | Official Chief Pleas publications; no terms page read |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -164,6 +165,7 @@ No second build of this corpus has been compared yet.
 ## Decisions made by hand
 
 - Guernsey's own Laws and Ordinances are taken from the Billets d'Ã‰tat on parliament.gg (2026-11-26, Lexifina's decision under its rule for sources whose terms only limit the purpose of reuse): each text as laid before the States, one file per instrument in `billets-d-etat/<year>/<billet>/`, the PDF's own text layer with page numbers dropped. Older Laws and Ordinances come from FAOLEX as secondary copies, tagged `Source-status: secondary copy`. Guernsey Legal Resources (Cloudflare challenge) and Wayback copies of it are not used.
+- History rebuilt on 2026-11-28 in strict in-force order (force-push approved 2026-11-28; the previous main is kept on the branch `pre-rebuild-2026-11-28`) to insert two Sark enactments dated 2026-07-10 and 2006-10-04. The 31 FAOLEX items held for want of a day of entry into force stay held: FAOLEX gives only a year for them.
 - The catalogue lists every UK statutory instrument legislation.gov.uk returns for "Guernsey" in its title; each is dated by the day it was made and credited to a catalogue key for that day.
 - Full text is given only for instruments, not revoked, that state a single coming-into-force date; those coming into force on registration by the Royal Court or on another event are catalogued only.
 - Each text is the instrument as made, dated by its coming-into-force date; later amendments are not applied. Footnotes and explanatory notes are left out; curly quotes are written as straight quotes.

@@ -9,7 +9,7 @@ Law of the Bailiwick of Guernsey as a git history: the States' own Laws and Ordi
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Guernsey's national law, which global-law reads at `guernsey/national/acts/`.
 
-**What is in it now:** 919 of Guernsey's own Laws, Ordinances and other instruments as laid before the States of Deliberation (239 Laws, 680 Ordinances, 0 other; 2003 to 2026), each the text put to the States, from the Billets d'Ã‰tat on parliament.gg (`billets-d-etat/`); 194 older Laws and Ordinances as FAOLEX holds them, mostly consolidated (`laws/`, `ordinances/`, `statutory-instruments/`; secondary copies); 107 UK Orders in Council and regulations about Guernsey, each in full as made; a catalogue of the 182 UK statutory instruments with "Guernsey" in their title (1949 to 2026); and a snapshot of Guernsey's legal system from Wikidata. [`REPRODUCE.md`](REPRODUCE.md) lists the sources.
+**What is in it now:** 919 of Guernsey's own Laws, Ordinances and other instruments as laid before the States of Deliberation (239 Laws, 680 Ordinances, 0 other; 2003 to 2026), each the text put to the States, from the Billets d'Ã‰tat on parliament.gg (`billets-d-etat/`); 2 Sark enactments from the Chief Pleas' website (`sark/`); 194 older Laws and Ordinances as FAOLEX holds them, mostly consolidated (`laws/`, `ordinances/`, `statutory-instruments/`; secondary copies); 107 UK Orders in Council and regulations about Guernsey, each in full as made; a catalogue of the 182 UK statutory instruments with "Guernsey" in their title (1949 to 2026); and a snapshot of Guernsey's legal system from Wikidata. [`REPRODUCE.md`](REPRODUCE.md) lists the sources.
 
 Each instrument has its own folder, named from its title and SI number, with one file per article or schedule (`territorial-sea-act-1987-guernsey-order-2019-si-2019-1108/art-002.md` is Article 2 of the Territorial Sea Act 1987 (Guernsey) Order 2019, SI 2019/1108); the catalogue has one file per instrument (`catalogue/si-2019-01108.md`).
 
@@ -78,6 +78,7 @@ Each text is credited to its statutory instrument (`SI 2019/1108`), with an e-ma
 | [Wikidata](https://www.wikidata.org/wiki/Q25230) | Open facts | one snapshot, 30 October 2026 | `legal-system/` only |
 | [parliament.gg](https://parliament.gg/parliamentary-business/billets) (States of Guernsey) | Laws (Projets de Loi), Ordinances and other instruments as laid before the States of Deliberation, from the Billets d'Ã‰tat and legislation propositions | no, each as laid | PDF text layer, read through the site's public content API in November 2026 |
 | [FAOLEX](https://faolex.fao.org) (FAO) | Secondary copies of Guernsey Laws and Ordinances, mostly consolidated | one copy each, dated as FAOLEX records | PDF text layer; `Source-status: secondary copy` |
+| [sarkgov.co.uk](https://sarkgov.co.uk) (Chief Pleas of Sark) | Sark Ordinance and consolidated Law, as the Chief Pleas publish them | no, one text each | PDF text layer; the Law is an unofficial in-house consolidation |
 
 ## Licence
 
